@@ -74,20 +74,19 @@ def get_partidos_semana(ligas_activas):
     fin_semana = hoy + timedelta(days=7)
     fecha_desde = hoy.strftime("%Y-%m-%d")
     fecha_hasta = fin_semana.strftime("%Y-%m-%d")
-    temporada = 2024
+    temporada = hoy.year if hoy.month >= 7 else hoy.year - 1
 
     for liga_nombre in ligas_activas:
         if liga_nombre not in LIGAS_DISPONIBLES:
             continue
         liga_id = LIGAS_DISPONIBLES[liga_nombre]
-        url = "https://v3.football.api-sports.io/fixtures"
+        url = f"https://v3.football.api-sports.io/fixtures"
         params = {
-    "league": liga_id,
-    "season": temporada,
-    "from": fecha_desde,
-    "to": fecha_hasta,
-    "timezone": "Europe/Madrid"
-}
+            "league": liga_id,
+            "season": temporada,
+            "from": fecha_desde,
+            "to": fecha_hasta
+        }
         headers_api = {
             "x-apisports-key": API_FOOTBALL_KEY
         }
