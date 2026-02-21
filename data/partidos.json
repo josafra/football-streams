@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-02-21T21:19:46.765121",
+  "ultima_actualizacion": "2026-02-21T21:37:39.149769",
   "ligas_activas": [
     "LaLiga",
     "Premier League",
@@ -9,6 +9,490 @@
     "Bundesliga",
     "Ligue 1"
   ],
-  "total_partidos": 0,
-  "partidos": []
+  "total_partidos": 21,
+  "partidos": [
+    {
+      "liga": "LaLiga",
+      "partido": "Doncaster Rovers vs Luton Town",
+      "home": "Doncaster Rovers",
+      "away": "Luton Town",
+      "fecha": "2026-02-24T19:45:00",
+      "estado": "NS",
+      "streams": [],
+      "ultima_actualizacion": "2026-02-21T21:34:32.666108"
+    },
+    {
+      "liga": "LaLiga",
+      "partido": "Bradford City vs Rotherham United",
+      "home": "Bradford City",
+      "away": "Rotherham United",
+      "fecha": "2026-02-24T19:45:00",
+      "estado": "NS",
+      "streams": [],
+      "ultima_actualizacion": "2026-02-21T21:34:42.581396"
+    },
+    {
+      "liga": "LaLiga",
+      "partido": "Northampton Town vs Port Vale",
+      "home": "Northampton Town",
+      "away": "Port Vale",
+      "fecha": "2026-02-24T19:45:00",
+      "estado": "NS",
+      "streams": [
+        {
+          "fuente": "dlhd.link",
+          "pagina": "https://dlhd.link/index.php?cat=Soccer",
+          "enlaces": [
+            "https://dlhd.link/index.php?cat=Motorsport",
+            "https://dlhd.link/index.php?cat=Winter+Sports",
+            "https://dlhd.link/index.php?cat=Water+Sports"
+          ]
+        },
+        {
+          "fuente": "crackstreams.blog",
+          "pagina": "https://crackstreams.blog/",
+          "enlaces": [
+            "https://total-sportek.uk/olympic-winter-games-2026/"
+          ]
+        },
+        {
+          "fuente": "www.viprow.co",
+          "pagina": "https://www.viprow.co/",
+          "enlaces": [
+            "https://www.viprow.co/sports-boxing-online",
+            "https://www.viprow.co/sports-football-online",
+            "https://www.viprow.co/sports-tennis-online",
+            "https://www.viprow.co/sports-basketball-online",
+            "https://www.viprow.co/sports-wwe-online"
+          ]
+        },
+        {
+          "fuente": "lmao.love",
+          "pagina": "https://lmao.love/channels/",
+          "enlaces": [
+            "https://lmao.love/stream/441",
+            "https://lmao.love/stream/213",
+            "https://lmao.love/stream/891",
+            "https://lmao.love/stream/459",
+            "https://lmao.love/stream/900"
+          ]
+        }
+      ],
+      "ultima_actualizacion": "2026-02-21T21:34:51.770069"
+    },
+    {
+      "liga": "Premier League",
+      "partido": "Doncaster Rovers vs Luton Town",
+      "home": "Doncaster Rovers",
+      "away": "Luton Town",
+      "fecha": "2026-02-24T19:45:00",
+      "estado": "NS",
+      "streams": [],
+      "ultima_actualizacion": "2026-02-21T21:35:01.879597"
+    },
+    {
+      "liga": "Premier League",
+      "partido": "Bradford City vs Rotherham United",
+      "home": "Bradford City",
+      "away": "Rotherham United",
+      "fecha": "2026-02-24T19:45:00",
+      "estado": "NS",
+      "streams": [],
+      "ultima_actualizacion": "2026-02-21T21:35:11.074322"
+    },
+    {
+      "liga": "Premier League",
+      "partido": "Northampton Town vs Port Vale",
+      "home": "Northampton Town",
+      "away": "Port Vale",
+      "fecha": "2026-02-24T19:45:00",
+      "estado": "NS",
+      "streams": [
+        {
+          "fuente": "dlhd.link",
+          "pagina": "https://dlhd.link/index.php?cat=Soccer",
+          "enlaces": [
+            "https://dlhd.link/index.php?cat=Motorsport",
+            "https://dlhd.link/index.php?cat=Winter+Sports",
+            "https://dlhd.link/index.php?cat=Water+Sports"
+          ]
+        },
+        {
+          "fuente": "crackstreams.blog",
+          "pagina": "https://crackstreams.blog/",
+          "enlaces": [
+            "https://total-sportek.uk/olympic-winter-games-2026/"
+          ]
+        },
+        {
+          "fuente": "www.viprow.co",
+          "pagina": "https://www.viprow.co/",
+          "enlaces": [
+            "https://www.viprow.co/sports-boxing-online",
+            "https://www.viprow.co/sports-football-online",
+            "https://www.viprow.co/sports-tennis-online",
+            "https://www.viprow.co/sports-basketball-online",
+            "https://www.viprow.co/sports-wwe-online"
+          ]
+        },
+        {
+          "fuente": "lmao.love",
+          "pagina": "https://lmao.love/channels/",
+          "enlaces": [
+            "https://lmao.love/stream/441",
+            "https://lmao.love/stream/213",
+            "https://lmao.love/stream/891",
+            "https://lmao.love/stream/459",
+            "https://lmao.love/stream/900"
+          ]
+        }
+      ],
+      "ultima_actualizacion": "2026-02-21T21:35:21.132883"
+    },
+    {
+      "liga": "Champions League",
+      "partido": "Doncaster Rovers vs Luton Town",
+      "home": "Doncaster Rovers",
+      "away": "Luton Town",
+      "fecha": "2026-02-24T19:45:00",
+      "estado": "NS",
+      "streams": [],
+      "ultima_actualizacion": "2026-02-21T21:35:31.073221"
+    },
+    {
+      "liga": "Champions League",
+      "partido": "Bradford City vs Rotherham United",
+      "home": "Bradford City",
+      "away": "Rotherham United",
+      "fecha": "2026-02-24T19:45:00",
+      "estado": "NS",
+      "streams": [],
+      "ultima_actualizacion": "2026-02-21T21:35:40.580136"
+    },
+    {
+      "liga": "Champions League",
+      "partido": "Northampton Town vs Port Vale",
+      "home": "Northampton Town",
+      "away": "Port Vale",
+      "fecha": "2026-02-24T19:45:00",
+      "estado": "NS",
+      "streams": [
+        {
+          "fuente": "dlhd.link",
+          "pagina": "https://dlhd.link/index.php?cat=Soccer",
+          "enlaces": [
+            "https://dlhd.link/index.php?cat=Motorsport",
+            "https://dlhd.link/index.php?cat=Winter+Sports",
+            "https://dlhd.link/index.php?cat=Water+Sports"
+          ]
+        },
+        {
+          "fuente": "crackstreams.blog",
+          "pagina": "https://crackstreams.blog/",
+          "enlaces": [
+            "https://total-sportek.uk/olympic-winter-games-2026/"
+          ]
+        },
+        {
+          "fuente": "www.viprow.co",
+          "pagina": "https://www.viprow.co/",
+          "enlaces": [
+            "https://www.viprow.co/sports-boxing-online",
+            "https://www.viprow.co/sports-football-online",
+            "https://www.viprow.co/sports-tennis-online",
+            "https://www.viprow.co/sports-basketball-online",
+            "https://www.viprow.co/sports-wwe-online"
+          ]
+        },
+        {
+          "fuente": "lmao.love",
+          "pagina": "https://lmao.love/channels/",
+          "enlaces": [
+            "https://lmao.love/stream/441",
+            "https://lmao.love/stream/213",
+            "https://lmao.love/stream/891",
+            "https://lmao.love/stream/459",
+            "https://lmao.love/stream/900"
+          ]
+        }
+      ],
+      "ultima_actualizacion": "2026-02-21T21:35:49.761784"
+    },
+    {
+      "liga": "Europa League",
+      "partido": "Doncaster Rovers vs Luton Town",
+      "home": "Doncaster Rovers",
+      "away": "Luton Town",
+      "fecha": "2026-02-24T19:45:00",
+      "estado": "NS",
+      "streams": [],
+      "ultima_actualizacion": "2026-02-21T21:35:59.498127"
+    },
+    {
+      "liga": "Europa League",
+      "partido": "Bradford City vs Rotherham United",
+      "home": "Bradford City",
+      "away": "Rotherham United",
+      "fecha": "2026-02-24T19:45:00",
+      "estado": "NS",
+      "streams": [],
+      "ultima_actualizacion": "2026-02-21T21:36:08.514226"
+    },
+    {
+      "liga": "Europa League",
+      "partido": "Northampton Town vs Port Vale",
+      "home": "Northampton Town",
+      "away": "Port Vale",
+      "fecha": "2026-02-24T19:45:00",
+      "estado": "NS",
+      "streams": [
+        {
+          "fuente": "dlhd.link",
+          "pagina": "https://dlhd.link/index.php?cat=Soccer",
+          "enlaces": [
+            "https://dlhd.link/index.php?cat=Motorsport",
+            "https://dlhd.link/index.php?cat=Winter+Sports",
+            "https://dlhd.link/index.php?cat=Water+Sports"
+          ]
+        },
+        {
+          "fuente": "crackstreams.blog",
+          "pagina": "https://crackstreams.blog/",
+          "enlaces": [
+            "https://total-sportek.uk/olympic-winter-games-2026/"
+          ]
+        },
+        {
+          "fuente": "www.viprow.co",
+          "pagina": "https://www.viprow.co/",
+          "enlaces": [
+            "https://www.viprow.co/sports-boxing-online",
+            "https://www.viprow.co/sports-football-online",
+            "https://www.viprow.co/sports-tennis-online",
+            "https://www.viprow.co/sports-basketball-online",
+            "https://www.viprow.co/sports-wwe-online"
+          ]
+        },
+        {
+          "fuente": "lmao.love",
+          "pagina": "https://lmao.love/channels/",
+          "enlaces": [
+            "https://lmao.love/stream/441",
+            "https://lmao.love/stream/213",
+            "https://lmao.love/stream/891",
+            "https://lmao.love/stream/459",
+            "https://lmao.love/stream/900"
+          ]
+        }
+      ],
+      "ultima_actualizacion": "2026-02-21T21:36:17.295529"
+    },
+    {
+      "liga": "Serie A",
+      "partido": "Doncaster Rovers vs Luton Town",
+      "home": "Doncaster Rovers",
+      "away": "Luton Town",
+      "fecha": "2026-02-24T19:45:00",
+      "estado": "NS",
+      "streams": [],
+      "ultima_actualizacion": "2026-02-21T21:36:26.896565"
+    },
+    {
+      "liga": "Serie A",
+      "partido": "Bradford City vs Rotherham United",
+      "home": "Bradford City",
+      "away": "Rotherham United",
+      "fecha": "2026-02-24T19:45:00",
+      "estado": "NS",
+      "streams": [],
+      "ultima_actualizacion": "2026-02-21T21:36:35.866772"
+    },
+    {
+      "liga": "Serie A",
+      "partido": "Northampton Town vs Port Vale",
+      "home": "Northampton Town",
+      "away": "Port Vale",
+      "fecha": "2026-02-24T19:45:00",
+      "estado": "NS",
+      "streams": [
+        {
+          "fuente": "dlhd.link",
+          "pagina": "https://dlhd.link/index.php?cat=Soccer",
+          "enlaces": [
+            "https://dlhd.link/index.php?cat=Motorsport",
+            "https://dlhd.link/index.php?cat=Winter+Sports",
+            "https://dlhd.link/index.php?cat=Water+Sports"
+          ]
+        },
+        {
+          "fuente": "crackstreams.blog",
+          "pagina": "https://crackstreams.blog/",
+          "enlaces": [
+            "https://total-sportek.uk/olympic-winter-games-2026/"
+          ]
+        },
+        {
+          "fuente": "www.viprow.co",
+          "pagina": "https://www.viprow.co/",
+          "enlaces": [
+            "https://www.viprow.co/sports-boxing-online",
+            "https://www.viprow.co/sports-football-online",
+            "https://www.viprow.co/sports-tennis-online",
+            "https://www.viprow.co/sports-basketball-online",
+            "https://www.viprow.co/sports-wwe-online"
+          ]
+        },
+        {
+          "fuente": "lmao.love",
+          "pagina": "https://lmao.love/channels/",
+          "enlaces": [
+            "https://lmao.love/stream/441",
+            "https://lmao.love/stream/213",
+            "https://lmao.love/stream/891",
+            "https://lmao.love/stream/459",
+            "https://lmao.love/stream/900"
+          ]
+        }
+      ],
+      "ultima_actualizacion": "2026-02-21T21:36:45.746986"
+    },
+    {
+      "liga": "Bundesliga",
+      "partido": "Doncaster Rovers vs Luton Town",
+      "home": "Doncaster Rovers",
+      "away": "Luton Town",
+      "fecha": "2026-02-24T19:45:00",
+      "estado": "NS",
+      "streams": [],
+      "ultima_actualizacion": "2026-02-21T21:36:54.540424"
+    },
+    {
+      "liga": "Bundesliga",
+      "partido": "Bradford City vs Rotherham United",
+      "home": "Bradford City",
+      "away": "Rotherham United",
+      "fecha": "2026-02-24T19:45:00",
+      "estado": "NS",
+      "streams": [],
+      "ultima_actualizacion": "2026-02-21T21:37:03.524179"
+    },
+    {
+      "liga": "Bundesliga",
+      "partido": "Northampton Town vs Port Vale",
+      "home": "Northampton Town",
+      "away": "Port Vale",
+      "fecha": "2026-02-24T19:45:00",
+      "estado": "NS",
+      "streams": [
+        {
+          "fuente": "dlhd.link",
+          "pagina": "https://dlhd.link/index.php?cat=Soccer",
+          "enlaces": [
+            "https://dlhd.link/index.php?cat=Motorsport",
+            "https://dlhd.link/index.php?cat=Winter+Sports",
+            "https://dlhd.link/index.php?cat=Water+Sports"
+          ]
+        },
+        {
+          "fuente": "crackstreams.blog",
+          "pagina": "https://crackstreams.blog/",
+          "enlaces": [
+            "https://total-sportek.uk/olympic-winter-games-2026/"
+          ]
+        },
+        {
+          "fuente": "www.viprow.co",
+          "pagina": "https://www.viprow.co/",
+          "enlaces": [
+            "https://www.viprow.co/sports-boxing-online",
+            "https://www.viprow.co/sports-football-online",
+            "https://www.viprow.co/sports-tennis-online",
+            "https://www.viprow.co/sports-basketball-online",
+            "https://www.viprow.co/sports-wwe-online"
+          ]
+        },
+        {
+          "fuente": "lmao.love",
+          "pagina": "https://lmao.love/channels/",
+          "enlaces": [
+            "https://lmao.love/stream/441",
+            "https://lmao.love/stream/213",
+            "https://lmao.love/stream/891",
+            "https://lmao.love/stream/459",
+            "https://lmao.love/stream/900"
+          ]
+        }
+      ],
+      "ultima_actualizacion": "2026-02-21T21:37:12.373633"
+    },
+    {
+      "liga": "Ligue 1",
+      "partido": "Doncaster Rovers vs Luton Town",
+      "home": "Doncaster Rovers",
+      "away": "Luton Town",
+      "fecha": "2026-02-24T19:45:00",
+      "estado": "NS",
+      "streams": [],
+      "ultima_actualizacion": "2026-02-21T21:37:21.284848"
+    },
+    {
+      "liga": "Ligue 1",
+      "partido": "Bradford City vs Rotherham United",
+      "home": "Bradford City",
+      "away": "Rotherham United",
+      "fecha": "2026-02-24T19:45:00",
+      "estado": "NS",
+      "streams": [],
+      "ultima_actualizacion": "2026-02-21T21:37:30.184149"
+    },
+    {
+      "liga": "Ligue 1",
+      "partido": "Northampton Town vs Port Vale",
+      "home": "Northampton Town",
+      "away": "Port Vale",
+      "fecha": "2026-02-24T19:45:00",
+      "estado": "NS",
+      "streams": [
+        {
+          "fuente": "dlhd.link",
+          "pagina": "https://dlhd.link/index.php?cat=Soccer",
+          "enlaces": [
+            "https://dlhd.link/index.php?cat=Motorsport",
+            "https://dlhd.link/index.php?cat=Winter+Sports",
+            "https://dlhd.link/index.php?cat=Water+Sports"
+          ]
+        },
+        {
+          "fuente": "crackstreams.blog",
+          "pagina": "https://crackstreams.blog/",
+          "enlaces": [
+            "https://total-sportek.uk/olympic-winter-games-2026/"
+          ]
+        },
+        {
+          "fuente": "www.viprow.co",
+          "pagina": "https://www.viprow.co/",
+          "enlaces": [
+            "https://www.viprow.co/sports-boxing-online",
+            "https://www.viprow.co/sports-football-online",
+            "https://www.viprow.co/sports-tennis-online",
+            "https://www.viprow.co/sports-basketball-online",
+            "https://www.viprow.co/sports-wwe-online"
+          ]
+        },
+        {
+          "fuente": "lmao.love",
+          "pagina": "https://lmao.love/channels/",
+          "enlaces": [
+            "https://lmao.love/stream/441",
+            "https://lmao.love/stream/213",
+            "https://lmao.love/stream/891",
+            "https://lmao.love/stream/459",
+            "https://lmao.love/stream/900"
+          ]
+        }
+      ],
+      "ultima_actualizacion": "2026-02-21T21:37:39.149758"
+    }
+  ]
 }
