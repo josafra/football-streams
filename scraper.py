@@ -80,13 +80,14 @@ def get_partidos_semana(ligas_activas):
         if liga_nombre not in LIGAS_DISPONIBLES:
             continue
         liga_id = LIGAS_DISPONIBLES[liga_nombre]
-        url = f"https://v3.football.api-sports.io/fixtures"
+        url = "https://v3.football.api-sports.io/fixtures"
         params = {
-            "league": liga_id,
-            "season": temporada,
-            "from": fecha_desde,
-            "to": fecha_hasta
-        }
+    "league": liga_id,
+    "season": temporada,
+    "from": fecha_desde,
+    "to": fecha_hasta,
+    "timezone": "Europe/Madrid"
+}
         headers_api = {
             "x-apisports-key": API_FOOTBALL_KEY
         }
