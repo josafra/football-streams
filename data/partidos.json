@@ -1,6 +1,14 @@
 {
-  "ultima_actualizacion": "",
-  "ligas_activas": [],
+  "ultima_actualizacion": "2026-02-21T20:27:31.535015",
+  "ligas_activas": [
+    "LaLiga",
+    "Premier League",
+    "Champions League",
+    "Europa League",
+    "Serie A",
+    "Bundesliga",
+    "Ligue 1"
+  ],
   "total_partidos": 0,
   "partidos": []
 }
