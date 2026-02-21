@@ -25,7 +25,6 @@ LIGAS_DISPONIBLES = {
 
 WEBS_STREAMING = [
     "https://streamed.pk/category/football",
-    "https://livetv.sx/es/allupcomingsports/1/",
     "https://dlhd.link/index.php?cat=Soccer",
     "https://sportsbite.live/football",
     "https://sportyhunter.com/sport/football",
