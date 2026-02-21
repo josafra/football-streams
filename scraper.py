@@ -74,7 +74,7 @@ def get_partidos_semana(ligas_activas):
     fin_semana = hoy + timedelta(days=7)
     fecha_desde = hoy.strftime("%Y-%m-%d")
     fecha_hasta = fin_semana.strftime("%Y-%m-%d")
-    temporada = hoy.year if hoy.month >= 7 else hoy.year - 1
+    temporada = 2024
 
     for liga_nombre in ligas_activas:
         if liga_nombre not in LIGAS_DISPONIBLES:
