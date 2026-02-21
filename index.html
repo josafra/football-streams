@@ -1,0 +1,764 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Football Streams</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      background: #0a0a0f;
+      color: #fff;
+      font-family: 'Segoe UI', sans-serif;
+      min-height: 100vh;
+    }
+
+    /* HEADER */
+    .header {
+      background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+      padding: 20px 30px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      border-bottom: 2px solid #00d4ff22;
+    }
+
+    .logo {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .logo-icon {
+      font-size: 36px;
+    }
+
+    .logo-text h1 {
+      font-size: 22px;
+      font-weight: 700;
+      color: #00d4ff;
+    }
+
+    .logo-text p {
+      font-size: 12px;
+      color: #ffffff66;
+    }
+
+    .header-actions {
+      display: flex;
+      gap: 12px;
+      align-items: center;
+    }
+
+    .btn {
+      padding: 10px 20px;
+      border-radius: 8px;
+      border: none;
+      cursor: pointer;
+      font-size: 14px;
+      font-weight: 600;
+      transition: all 0.2s;
+    }
+
+    .btn-primary {
+      background: #00d4ff;
+      color: #000;
+    }
+
+    .btn-primary:hover { background: #00b8d9; transform: scale(1.02); }
+
+    .btn-secondary {
+      background: #ffffff11;
+      color: #fff;
+      border: 1px solid #ffffff22;
+    }
+
+    .btn-secondary:hover { background: #ffffff22; }
+
+    /* FILTROS */
+    .filtros {
+      padding: 20px 30px;
+      background: #0d0d1a;
+      border-bottom: 1px solid #ffffff11;
+      display: flex;
+      gap: 12px;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+
+    .filtros-label {
+      font-size: 13px;
+      color: #ffffff66;
+      margin-right: 4px;
+    }
+
+    .chip {
+      padding: 6px 14px;
+      border-radius: 20px;
+      border: 1px solid #ffffff22;
+      background: transparent;
+      color: #ffffffaa;
+      cursor: pointer;
+      font-size: 13px;
+      transition: all 0.2s;
+    }
+
+    .chip.active {
+      background: #00d4ff22;
+      border-color: #00d4ff;
+      color: #00d4ff;
+    }
+
+    .chip:hover { border-color: #00d4ff88; }
+
+    .busqueda {
+      margin-left: auto;
+      display: flex;
+      gap: 8px;
+    }
+
+    .busqueda input {
+      padding: 8px 14px;
+      border-radius: 8px;
+      border: 1px solid #ffffff22;
+      background: #ffffff0a;
+      color: #fff;
+      font-size: 14px;
+      width: 220px;
+    }
+
+    .busqueda input:focus {
+      outline: none;
+      border-color: #00d4ff;
+    }
+
+    /* TABS */
+    .tabs {
+      display: flex;
+      padding: 0 30px;
+      background: #0d0d1a;
+      gap: 4px;
+    }
+
+    .tab {
+      padding: 14px 20px;
+      cursor: pointer;
+      font-size: 14px;
+      color: #ffffff66;
+      border-bottom: 3px solid transparent;
+      transition: all 0.2s;
+    }
+
+    .tab.active {
+      color: #00d4ff;
+      border-bottom-color: #00d4ff;
+    }
+
+    /* CONTENIDO */
+    .contenido {
+      padding: 24px 30px;
+      max-width: 1400px;
+      margin: 0 auto;
+    }
+
+    .estado-bar {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 20px;
+      font-size: 13px;
+      color: #ffffff66;
+    }
+
+    .dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: #00ff88;
+      animation: pulse 2s infinite;
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.3; }
+    }
+
+    /* GRID DE PARTIDOS */
+    .partidos-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+      gap: 16px;
+    }
+
+    .partido-card {
+      background: #1a1a2e;
+      border-radius: 12px;
+      padding: 20px;
+      border: 1px solid #ffffff11;
+      transition: all 0.2s;
+      cursor: pointer;
+    }
+
+    .partido-card:hover {
+      border-color: #00d4ff44;
+      transform: translateY(-2px);
+      box-shadow: 0 8px 24px #00d4ff11;
+    }
+
+    .partido-liga {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 14px;
+    }
+
+    .liga-badge {
+      font-size: 11px;
+      padding: 3px 10px;
+      border-radius: 12px;
+      font-weight: 600;
+    }
+
+    .estado-badge {
+      font-size: 11px;
+      padding: 3px 10px;
+      border-radius: 12px;
+      font-weight: 600;
+    }
+
+    .estado-live { background: #ff003322; color: #ff4444; border: 1px solid #ff444444; }
+    .estado-prox { background: #00d4ff11; color: #00d4ff; border: 1px solid #00d4ff33; }
+    .estado-fin { background: #ffffff11; color: #ffffff66; border: 1px solid #ffffff22; }
+
+    .partido-equipos {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 14px;
+    }
+
+    .equipo {
+      text-align: center;
+      flex: 1;
+    }
+
+    .equipo-nombre {
+      font-size: 15px;
+      font-weight: 700;
+      margin-bottom: 4px;
+    }
+
+    .vs {
+      color: #ffffff33;
+      font-size: 18px;
+      font-weight: 300;
+      padding: 0 10px;
+    }
+
+    .partido-info {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 14px;
+    }
+
+    .partido-fecha {
+      font-size: 12px;
+      color: #ffffff66;
+    }
+
+    .streams-count {
+      font-size: 12px;
+      color: #00ff88;
+    }
+
+    .no-streams {
+      font-size: 12px;
+      color: #ffffff33;
+    }
+
+    .streams-lista {
+      display: none;
+      margin-top: 14px;
+      border-top: 1px solid #ffffff11;
+      padding-top: 14px;
+    }
+
+    .streams-lista.visible { display: block; }
+
+    .stream-item {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 8px 12px;
+      background: #ffffff08;
+      border-radius: 8px;
+      margin-bottom: 6px;
+      gap: 10px;
+    }
+
+    .stream-fuente {
+      font-size: 12px;
+      color: #00d4ff;
+      font-weight: 600;
+      min-width: 100px;
+    }
+
+    .stream-links {
+      display: flex;
+      gap: 6px;
+      flex-wrap: wrap;
+      flex: 1;
+    }
+
+    .stream-link {
+      font-size: 11px;
+      padding: 4px 10px;
+      background: #00d4ff22;
+      border: 1px solid #00d4ff44;
+      border-radius: 6px;
+      color: #00d4ff;
+      text-decoration: none;
+      transition: all 0.2s;
+    }
+
+    .stream-link:hover {
+      background: #00d4ff44;
+    }
+
+    /* EMPTY STATE */
+    .empty-state {
+      text-align: center;
+      padding: 80px 20px;
+      color: #ffffff33;
+    }
+
+    .empty-state .icon { font-size: 64px; margin-bottom: 16px; }
+    .empty-state h3 { font-size: 18px; margin-bottom: 8px; color: #ffffff66; }
+
+    /* LOADING */
+    .loading {
+      text-align: center;
+      padding: 60px;
+      color: #00d4ff;
+    }
+
+    .spinner {
+      width: 40px;
+      height: 40px;
+      border: 3px solid #00d4ff22;
+      border-top-color: #00d4ff;
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+      margin: 0 auto 16px;
+    }
+
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    /* MODAL CONFIGURACIÓN */
+    .modal-overlay {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: #000000cc;
+      z-index: 100;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .modal-overlay.visible { display: flex; }
+
+    .modal {
+      background: #1a1a2e;
+      border-radius: 16px;
+      padding: 30px;
+      width: 500px;
+      max-width: 90vw;
+      border: 1px solid #00d4ff33;
+    }
+
+    .modal h2 {
+      font-size: 20px;
+      margin-bottom: 6px;
+      color: #00d4ff;
+    }
+
+    .modal p {
+      font-size: 13px;
+      color: #ffffff66;
+      margin-bottom: 24px;
+    }
+
+    .ligas-config {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+      margin-bottom: 24px;
+    }
+
+    .liga-toggle {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 12px;
+      background: #ffffff08;
+      border-radius: 10px;
+      cursor: pointer;
+      border: 1px solid #ffffff11;
+      transition: all 0.2s;
+    }
+
+    .liga-toggle.activa {
+      background: #00d4ff11;
+      border-color: #00d4ff44;
+    }
+
+    .liga-toggle input { display: none; }
+
+    .liga-check {
+      width: 18px;
+      height: 18px;
+      border-radius: 4px;
+      border: 2px solid #ffffff33;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 11px;
+      flex-shrink: 0;
+    }
+
+    .liga-toggle.activa .liga-check {
+      background: #00d4ff;
+      border-color: #00d4ff;
+      color: #000;
+    }
+
+    .liga-nombre {
+      font-size: 13px;
+      font-weight: 600;
+    }
+
+    .modal-actions {
+      display: flex;
+      gap: 10px;
+      justify-content: flex-end;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- HEADER -->
+  <div class="header">
+    <div class="logo">
+      <div class="logo-icon">⚽</div>
+      <div class="logo-text">
+        <h1>Football Streams</h1>
+        <p>Streams automáticos de fútbol</p>
+      </div>
+    </div>
+    <div class="header-actions">
+      <button class="btn btn-secondary" onclick="cargarDatos()">🔄 Actualizar</button>
+      <button class="btn btn-primary" onclick="abrirConfig()">⚙️ Ligas</button>
+    </div>
+  </div>
+
+  <!-- TABS -->
+  <div class="tabs">
+    <div class="tab active" onclick="cambiarTab('todos', this)">Todos los partidos</div>
+    <div class="tab" onclick="cambiarTab('live', this)">🔴 En directo</div>
+    <div class="tab" onclick="cambiarTab('hoy', this)">📅 Hoy</div>
+    <div class="tab" onclick="cambiarTab('semana', this)">📆 Esta semana</div>
+  </div>
+
+  <!-- FILTROS -->
+  <div class="filtros">
+    <span class="filtros-label">Liga:</span>
+    <div id="chips-ligas">
+      <div class="chip active" onclick="filtrarLiga('todas', this)">Todas</div>
+    </div>
+    <div class="busqueda">
+      <input type="text" id="buscador" placeholder="🔍 Buscar partido..." oninput="filtrarBusqueda(this.value)">
+    </div>
+  </div>
+
+  <!-- CONTENIDO -->
+  <div class="contenido">
+    <div class="estado-bar">
+      <div class="dot"></div>
+      <span id="estado-texto">Cargando partidos...</span>
+    </div>
+    <div id="partidos-container">
+      <div class="loading">
+        <div class="spinner"></div>
+        <p>Cargando datos desde GitHub...</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- MODAL CONFIGURACIÓN -->
+  <div class="modal-overlay" id="modal-config">
+    <div class="modal">
+      <h2>⚙️ Configurar Ligas</h2>
+      <p>Selecciona las ligas que quieres seguir. El script buscará streams automáticamente para estas ligas.</p>
+      <div class="ligas-config" id="ligas-config-lista"></div>
+      <div class="modal-actions">
+        <button class="btn btn-secondary" onclick="cerrarConfig()">Cancelar</button>
+        <button class="btn btn-primary" onclick="guardarConfig()">💾 Guardar</button>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // ============================================================
+    // CONFIGURACIÓN
+    // ============================================================
+    const GITHUB_USER = "josafra";
+    const GITHUB_REPO = "football-streams";
+    const JSON_URL = `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/main/data/partidos.json?t=${Date.now()}`;
+    const CONFIG_URL = `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/main/data/config.json?t=${Date.now()}`;
+
+    const LIGAS_COLORES = {
+      "LaLiga": "#ef4444",
+      "Premier League": "#8b5cf6",
+      "Champions League": "#3b82f6",
+      "Europa League": "#f97316",
+      "Serie A": "#10b981",
+      "Bundesliga": "#eab308",
+      "Ligue 1": "#06b6d4"
+    };
+
+    let todosPartidos = [];
+    let tabActual = "todos";
+    let ligaActual = "todas";
+    let busquedaActual = "";
+    let ligasConfig = [];
+
+    // ============================================================
+    // CARGA DE DATOS
+    // ============================================================
+    async function cargarDatos() {
+      document.getElementById("estado-texto").textContent = "Actualizando...";
+      document.getElementById("partidos-container").innerHTML = `
+        <div class="loading">
+          <div class="spinner"></div>
+          <p>Cargando datos desde GitHub...</p>
+        </div>`;
+
+      try {
+        const url = `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/main/data/partidos.json?t=${Date.now()}`;
+        const r = await fetch(url);
+        const data = await r.json();
+        todosPartidos = data.partidos || [];
+
+        const ultima = data.ultima_actualizacion
+          ? new Date(data.ultima_actualizacion).toLocaleString("es-ES")
+          : "Nunca";
+
+        document.getElementById("estado-texto").textContent =
+          `${todosPartidos.length} partidos · Última actualización: ${ultima}`;
+
+        generarChipsLigas();
+        renderPartidos();
+      } catch (e) {
+        document.getElementById("partidos-container").innerHTML = `
+          <div class="empty-state">
+            <div class="icon">⚠️</div>
+            <h3>Error al cargar datos</h3>
+            <p>Comprueba que el repositorio tiene el archivo data/partidos.json</p>
+          </div>`;
+        document.getElementById("estado-texto").textContent = "Error de conexión";
+      }
+    }
+
+    // ============================================================
+    // RENDER
+    // ============================================================
+    function generarChipsLigas() {
+      const ligas = [...new Set(todosPartidos.map(p => p.liga))];
+      const container = document.getElementById("chips-ligas");
+      container.innerHTML = `<div class="chip active" onclick="filtrarLiga('todas', this)">Todas</div>`;
+      ligas.forEach(liga => {
+        const chip = document.createElement("div");
+        chip.className = "chip";
+        chip.textContent = liga;
+        chip.onclick = function() { filtrarLiga(liga, this); };
+        container.appendChild(chip);
+      });
+    }
+
+    function renderPartidos() {
+      let partidos = [...todosPartidos];
+
+      // Filtro tab
+      const ahora = new Date();
+      const hoy = ahora.toDateString();
+      const semana = new Date(ahora.getTime() + 7 * 24 * 60 * 60 * 1000);
+
+      if (tabActual === "live") {
+        partidos = partidos.filter(p => p.estado === "1H" || p.estado === "2H" || p.estado === "HT" || p.estado === "LIVE");
+      } else if (tabActual === "hoy") {
+        partidos = partidos.filter(p => new Date(p.fecha).toDateString() === hoy);
+      } else if (tabActual === "semana") {
+        partidos = partidos.filter(p => new Date(p.fecha) <= semana);
+      }
+
+      // Filtro liga
+      if (ligaActual !== "todas") {
+        partidos = partidos.filter(p => p.liga === ligaActual);
+      }
+
+      // Filtro búsqueda
+      if (busquedaActual) {
+        const b = busquedaActual.toLowerCase();
+        partidos = partidos.filter(p => p.partido.toLowerCase().includes(b));
+      }
+
+      const container = document.getElementById("partidos-container");
+
+      if (partidos.length === 0) {
+        container.innerHTML = `
+          <div class="empty-state">
+            <div class="icon">⚽</div>
+            <h3>No hay partidos disponibles</h3>
+            <p>Ejecuta el script para buscar streams o cambia los filtros</p>
+          </div>`;
+        return;
+      }
+
+      container.innerHTML = `<div class="partidos-grid">${partidos.map(cardPartido).join("")}</div>`;
+    }
+
+    function cardPartido(p, i) {
+      const fecha = new Date(p.fecha);
+      const fechaStr = fecha.toLocaleString("es-ES", { weekday: "short", day: "numeric", month: "short", hour: "2-digit", minute: "2-digit" });
+      const color = LIGAS_COLORES[p.liga] || "#00d4ff";
+      const esLive = ["1H","2H","HT","LIVE"].includes(p.estado);
+      const esFin = ["FT","AET","PEN"].includes(p.estado);
+
+      const estadoClass = esLive ? "estado-live" : esFin ? "estado-fin" : "estado-prox";
+      const estadoText = esLive ? "🔴 EN DIRECTO" : esFin ? "Finalizado" : "Próximo";
+
+      const streamsHTML = p.streams && p.streams.length > 0
+        ? p.streams.map(s => `
+            <div class="stream-item">
+              <span class="stream-fuente">${s.fuente}</span>
+              <div class="stream-links">
+                <a class="stream-link" href="${s.pagina}" target="_blank">Ver página</a>
+                ${(s.enlaces || []).slice(0,3).map((e, ei) =>
+                  `<a class="stream-link" href="${e}" target="_blank">Stream ${ei+1}</a>`
+                ).join("")}
+              </div>
+            </div>`).join("")
+        : `<p style="color:#ffffff33;font-size:12px;text-align:center;padding:10px">Sin streams disponibles aún</p>`;
+
+      return `
+        <div class="partido-card" onclick="toggleStreams(${i})">
+          <div class="partido-liga">
+            <span class="liga-badge" style="background:${color}22;color:${color};border:1px solid ${color}44">${p.liga}</span>
+            <span class="estado-badge ${estadoClass}">${estadoText}</span>
+          </div>
+          <div class="partido-equipos">
+            <div class="equipo"><div class="equipo-nombre">${p.home}</div></div>
+            <div class="vs">vs</div>
+            <div class="equipo"><div class="equipo-nombre">${p.away}</div></div>
+          </div>
+          <div class="partido-info">
+            <span class="partido-fecha">📅 ${fechaStr}</span>
+            ${p.streams && p.streams.length > 0
+              ? `<span class="streams-count">✅ ${p.streams.length} fuentes</span>`
+              : `<span class="no-streams">Sin streams</span>`}
+          </div>
+          <div class="streams-lista" id="streams-${i}">${streamsHTML}</div>
+        </div>`;
+    }
+
+    function toggleStreams(i) {
+      const el = document.getElementById(`streams-${i}`);
+      el.classList.toggle("visible");
+    }
+
+    // ============================================================
+    // FILTROS Y TABS
+    // ============================================================
+    function cambiarTab(tab, el) {
+      tabActual = tab;
+      document.querySelectorAll(".tab").forEach(t => t.classList.remove("active"));
+      el.classList.add("active");
+      renderPartidos();
+    }
+
+    function filtrarLiga(liga, el) {
+      ligaActual = liga;
+      document.querySelectorAll(".chip").forEach(c => c.classList.remove("active"));
+      el.classList.add("active");
+      renderPartidos();
+    }
+
+    function filtrarBusqueda(val) {
+      busquedaActual = val;
+      renderPartidos();
+    }
+
+    // ============================================================
+    // CONFIGURACIÓN DE LIGAS
+    // ============================================================
+    const TODAS_LIGAS = ["LaLiga", "Premier League", "Champions League", "Europa League", "Serie A", "Bundesliga", "Ligue 1"];
+
+    async function abrirConfig() {
+      try {
+        const url = `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/main/data/config.json?t=${Date.now()}`;
+        const r = await fetch(url);
+        const data = await r.json();
+        ligasConfig = data.ligas_activas || TODAS_LIGAS;
+      } catch {
+        ligasConfig = TODAS_LIGAS;
+      }
+
+      const lista = document.getElementById("ligas-config-lista");
+      lista.innerHTML = TODAS_LIGAS.map(liga => {
+        const activa = ligasConfig.includes(liga);
+        const color = LIGAS_COLORES[liga] || "#00d4ff";
+        return `
+          <div class="liga-toggle ${activa ? 'activa' : ''}" onclick="toggleLiga('${liga}', this)">
+            <div class="liga-check">${activa ? '✓' : ''}</div>
+            <span class="liga-nombre" style="color:${activa ? color : '#fff'}">${liga}</span>
+          </div>`;
+      }).join("");
+
+      document.getElementById("modal-config").classList.add("visible");
+    }
+
+    function toggleLiga(liga, el) {
+      const idx = ligasConfig.indexOf(liga);
+      if (idx >= 0) {
+        ligasConfig.splice(idx, 1);
+        el.classList.remove("activa");
+        el.querySelector(".liga-check").textContent = "";
+        el.querySelector(".liga-nombre").style.color = "#fff";
+      } else {
+        ligasConfig.push(liga);
+        el.classList.add("activa");
+        el.querySelector(".liga-check").textContent = "✓";
+        el.querySelector(".liga-nombre").style.color = LIGAS_COLORES[liga] || "#00d4ff";
+      }
+    }
+
+    function cerrarConfig() {
+      document.getElementById("modal-config").classList.remove("visible");
+    }
+
+    function guardarConfig() {
+      // Guardar en localStorage para uso local
+      localStorage.setItem("ligas_config", JSON.stringify(ligasConfig));
+      alert(`✅ Configuración guardada.\n\nLigas activas:\n${ligasConfig.join(", ")}\n\nNota: Para que el script busque estas ligas, actualiza el archivo data/config.json en GitHub.`);
+      cerrarConfig();
+    }
+
+    // ============================================================
+    // INICIO
+    // ============================================================
+    cargarDatos();
+  </script>
+</body>
+</html>
