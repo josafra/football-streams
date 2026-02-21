@@ -74,7 +74,7 @@ def get_partidos_semana(ligas_activas):
     fin_semana = hoy + timedelta(days=7)
     fecha_desde = hoy.strftime("%Y-%m-%d")
     fecha_hasta = fin_semana.strftime("%Y-%m-%d")
-    temporada = 2024
+    temporada = hoy.year if hoy.month >= 7 else hoy.year - 1
 
     for liga_nombre in ligas_activas:
         if liga_nombre not in LIGAS_DISPONIBLES:
@@ -93,7 +93,6 @@ def get_partidos_semana(ligas_activas):
         try:
             r = requests.get(url, headers=headers_api, params=params, timeout=15)
             data = r.json()
-			print(f"API respuesta para {liga_nombre}: {data.get('results', 0)} partidos, errores: {data.get('errors', {})}")
             for fixture in data.get("response", []):
                 home = fixture["teams"]["home"]["name"]
                 away = fixture["teams"]["away"]["name"]
