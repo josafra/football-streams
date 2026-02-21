@@ -2,5 +2,9 @@
   "ligas_activas": [
     "LaLiga",
     "Segunda Division"
-  ]
+  ],
+  "league_ids": {
+    "LaLiga": 4335,
+    "Segunda Division": 4965
+  }
 }
