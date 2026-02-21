@@ -93,6 +93,7 @@ def get_partidos_semana(ligas_activas):
         try:
             r = requests.get(url, headers=headers_api, params=params, timeout=15)
             data = r.json()
+			print(f"API respuesta para {liga_nombre}: {data.get('results', 0)} partidos, errores: {data.get('errors', {})}")
             for fixture in data.get("response", []):
                 home = fixture["teams"]["home"]["name"]
                 away = fixture["teams"]["away"]["name"]
