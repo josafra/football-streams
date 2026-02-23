@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-02-22T06:35:40.460029",
+  "ultima_actualizacion": "2026-02-23T06:52:23.222199",
   "ligas_activas": [
     "LaLiga",
     "Segunda Division"
@@ -14,7 +14,7 @@
       "fecha": "2026-02-24T19:45:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-02-22T06:32:14.251018"
+      "ultima_actualizacion": "2026-02-23T06:50:26.081209"
     },
     {
       "liga": "LaLiga",
@@ -24,7 +24,7 @@
       "fecha": "2026-02-24T19:45:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-02-22T06:32:29.991553"
+      "ultima_actualizacion": "2026-02-23T06:50:34.494190"
     },
     {
       "liga": "LaLiga",
@@ -38,11 +38,11 @@
           "fuente": "dlhd.link",
           "pagina": "https://dlhd.link/index.php?cat=Soccer",
           "enlaces": [
-            "https://dlhd.link/watch.php?id=595",
-            "https://dlhd.link/watch.php?id=64",
-            "https://dlhd.link/watch.php?id=26",
-            "https://dlhd.link/watch.php?id=372",
-            "https://dlhd.link/watch.php?id=25"
+            "https://dlhd.link/watch.php?id=713",
+            "https://dlhd.link/watch.php?id=62",
+            "https://dlhd.link/watch.php?id=400",
+            "https://dlhd.link/watch.php?id=20",
+            "https://dlhd.link/watch.php?id=61"
           ]
         },
         {
@@ -56,26 +56,26 @@
           "fuente": "www.viprow.co",
           "pagina": "https://www.viprow.co/",
           "enlaces": [
-            "https://www.viprow.co/sports-football-online",
             "https://www.viprow.co/sports-fighting-online",
-            "https://www.viprow.co/sports-others-online",
-            "https://www.viprow.co/sports-moto-gp-online",
-            "https://www.viprow.co/sports-motorsports-online"
+            "https://www.viprow.co/sports-volleyball-online",
+            "https://www.viprow.co/sports-formula-1-online",
+            "https://www.viprow.co/sports-motorsports-online",
+            "https://www.viprow.co/sports-boxing-online"
           ]
         },
         {
           "fuente": "lmao.love",
           "pagina": "https://lmao.love/channels/",
           "enlaces": [
+            "https://lmao.love/stream/580",
+            "https://lmao.love/stream/35",
             "https://lmao.love/stream/586",
-            "https://lmao.love/stream/214",
-            "https://lmao.love/stream/486",
-            "https://lmao.love/stream/31",
-            "https://lmao.love/stream/455"
+            "https://lmao.love/stream/629",
+            "https://lmao.love/stream/496"
           ]
         }
       ],
-      "ultima_actualizacion": "2026-02-22T06:32:40.990961"
+      "ultima_actualizacion": "2026-02-23T06:50:46.770924"
     },
     {
       "liga": "LaLiga",
@@ -85,7 +85,7 @@
       "fecha": "2026-02-24T19:45:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-02-22T06:32:54.412664"
+      "ultima_actualizacion": "2026-02-23T06:50:55.083302"
     },
     {
       "liga": "LaLiga",
@@ -95,7 +95,7 @@
       "fecha": "2026-02-28T15:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-02-22T06:33:16.083611"
+      "ultima_actualizacion": "2026-02-23T06:51:03.701657"
     },
     {
       "liga": "LaLiga",
@@ -105,7 +105,7 @@
       "fecha": "2026-02-28T12:30:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-02-22T06:33:34.270976"
+      "ultima_actualizacion": "2026-02-23T06:51:11.713330"
     },
     {
       "liga": "LaLiga",
@@ -115,7 +115,7 @@
       "fecha": "2026-02-28T15:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-02-22T06:33:56.226420"
+      "ultima_actualizacion": "2026-02-23T06:51:19.639137"
     },
     {
       "liga": "LaLiga",
@@ -125,7 +125,7 @@
       "fecha": "2026-02-28T15:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-02-22T06:34:13.901180"
+      "ultima_actualizacion": "2026-02-23T06:51:27.509105"
     },
     {
       "liga": "LaLiga",
@@ -135,7 +135,7 @@
       "fecha": "2026-02-28T12:30:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-02-22T06:34:22.445153"
+      "ultima_actualizacion": "2026-02-23T06:51:35.484843"
     },
     {
       "liga": "LaLiga",
@@ -149,11 +149,11 @@
           "fuente": "dlhd.link",
           "pagina": "https://dlhd.link/index.php?cat=Soccer",
           "enlaces": [
-            "https://dlhd.link/watch.php?id=595",
-            "https://dlhd.link/watch.php?id=64",
-            "https://dlhd.link/watch.php?id=26",
-            "https://dlhd.link/watch.php?id=372",
-            "https://dlhd.link/watch.php?id=25"
+            "https://dlhd.link/watch.php?id=713",
+            "https://dlhd.link/watch.php?id=62",
+            "https://dlhd.link/watch.php?id=400",
+            "https://dlhd.link/watch.php?id=20",
+            "https://dlhd.link/watch.php?id=61"
           ]
         },
         {
@@ -167,26 +167,26 @@
           "fuente": "www.viprow.co",
           "pagina": "https://www.viprow.co/",
           "enlaces": [
-            "https://www.viprow.co/sports-football-online",
             "https://www.viprow.co/sports-fighting-online",
-            "https://www.viprow.co/sports-others-online",
-            "https://www.viprow.co/sports-moto-gp-online",
-            "https://www.viprow.co/sports-motorsports-online"
+            "https://www.viprow.co/sports-volleyball-online",
+            "https://www.viprow.co/sports-formula-1-online",
+            "https://www.viprow.co/sports-motorsports-online",
+            "https://www.viprow.co/sports-boxing-online"
           ]
         },
         {
           "fuente": "lmao.love",
           "pagina": "https://lmao.love/channels/",
           "enlaces": [
+            "https://lmao.love/stream/580",
+            "https://lmao.love/stream/35",
             "https://lmao.love/stream/586",
-            "https://lmao.love/stream/214",
-            "https://lmao.love/stream/486",
-            "https://lmao.love/stream/31",
-            "https://lmao.love/stream/455"
+            "https://lmao.love/stream/629",
+            "https://lmao.love/stream/496"
           ]
         }
       ],
-      "ultima_actualizacion": "2026-02-22T06:34:40.037500"
+      "ultima_actualizacion": "2026-02-23T06:51:43.491101"
     },
     {
       "liga": "LaLiga",
@@ -196,7 +196,7 @@
       "fecha": "2026-02-28T15:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-02-22T06:34:48.633307"
+      "ultima_actualizacion": "2026-02-23T06:51:51.690275"
     },
     {
       "liga": "LaLiga",
@@ -206,7 +206,7 @@
       "fecha": "2026-02-28T15:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-02-22T06:35:06.276470"
+      "ultima_actualizacion": "2026-02-23T06:51:59.748407"
     },
     {
       "liga": "LaLiga",
@@ -216,7 +216,7 @@
       "fecha": "2026-02-28T15:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-02-22T06:35:14.720679"
+      "ultima_actualizacion": "2026-02-23T06:52:07.710892"
     },
     {
       "liga": "LaLiga",
@@ -226,7 +226,7 @@
       "fecha": "2026-02-28T15:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-02-22T06:35:32.631969"
+      "ultima_actualizacion": "2026-02-23T06:52:15.459092"
     },
     {
       "liga": "LaLiga",
@@ -236,7 +236,7 @@
       "fecha": "2026-02-28T15:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-02-22T06:35:40.460011"
+      "ultima_actualizacion": "2026-02-23T06:52:23.222181"
     }
   ]
 }
