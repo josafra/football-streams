@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-02-24T06:45:32.543264",
+  "ultima_actualizacion": "2026-02-25T06:48:16.079111",
   "ligas_activas": [
     "LaLiga",
     "Segunda Division"
@@ -8,80 +8,13 @@
   "partidos": [
     {
       "liga": "LaLiga",
-      "partido": "Bradford City vs Rotherham United",
-      "home": "Bradford City",
-      "away": "Rotherham United",
-      "fecha": "2026-02-24T19:45:00",
-      "estado": "NS",
-      "streams": [],
-      "ultima_actualizacion": "2026-02-24T06:43:35.395573"
-    },
-    {
-      "liga": "LaLiga",
-      "partido": "Northampton Town vs Port Vale",
-      "home": "Northampton Town",
-      "away": "Port Vale",
-      "fecha": "2026-02-24T19:45:00",
-      "estado": "NS",
-      "streams": [
-        {
-          "fuente": "dlhd.link",
-          "pagina": "https://dlhd.link/index.php?cat=Soccer",
-          "enlaces": [
-            "https://dlhd.link/index.php?cat=Motorsport"
-          ]
-        },
-        {
-          "fuente": "crackstreams.blog",
-          "pagina": "https://crackstreams.blog/",
-          "enlaces": [
-            "https://totalsportek1.uk/"
-          ]
-        },
-        {
-          "fuente": "www.viprow.co",
-          "pagina": "https://www.viprow.co/",
-          "enlaces": [
-            "https://www.viprow.co/",
-            "https://www.viprow.co/sports-rugby-online",
-            "https://www.viprow.co/sports-formula-1-online",
-            "https://www.viprow.co/sports-ufc-online",
-            "https://www.viprow.co/sports-tennis-online"
-          ]
-        },
-        {
-          "fuente": "lmao.love",
-          "pagina": "https://lmao.love/channels/",
-          "enlaces": [
-            "https://lmao.love/stream/420",
-            "https://lmao.love/stream/259",
-            "https://lmao.love/stream/60",
-            "https://lmao.love/stream/945",
-            "https://lmao.love/stream/122"
-          ]
-        }
-      ],
-      "ultima_actualizacion": "2026-02-24T06:43:43.130131"
-    },
-    {
-      "liga": "LaLiga",
-      "partido": "Burton Albion vs Stockport County",
-      "home": "Burton Albion",
-      "away": "Stockport County",
-      "fecha": "2026-02-24T19:45:00",
-      "estado": "NS",
-      "streams": [],
-      "ultima_actualizacion": "2026-02-24T06:43:50.822379"
-    },
-    {
-      "liga": "LaLiga",
       "partido": "Exeter City vs Bolton Wanderers",
       "home": "Exeter City",
       "away": "Bolton Wanderers",
       "fecha": "2026-02-28T15:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-02-24T06:43:59.035969"
+      "ultima_actualizacion": "2026-02-25T06:46:24.945585"
     },
     {
       "liga": "LaLiga",
@@ -91,7 +24,7 @@
       "fecha": "2026-02-28T12:30:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-02-24T06:44:07.498043"
+      "ultima_actualizacion": "2026-02-25T06:46:33.025019"
     },
     {
       "liga": "LaLiga",
@@ -101,7 +34,7 @@
       "fecha": "2026-02-28T15:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-02-24T06:44:19.702388"
+      "ultima_actualizacion": "2026-02-25T06:46:41.146484"
     },
     {
       "liga": "LaLiga",
@@ -111,7 +44,7 @@
       "fecha": "2026-02-28T15:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-02-24T06:44:27.775036"
+      "ultima_actualizacion": "2026-02-25T06:46:49.107757"
     },
     {
       "liga": "LaLiga",
@@ -121,7 +54,7 @@
       "fecha": "2026-02-28T12:30:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-02-24T06:44:38.733479"
+      "ultima_actualizacion": "2026-02-25T06:46:57.316448"
     },
     {
       "liga": "LaLiga",
@@ -132,13 +65,6 @@
       "estado": "NS",
       "streams": [
         {
-          "fuente": "dlhd.link",
-          "pagina": "https://dlhd.link/index.php?cat=Soccer",
-          "enlaces": [
-            "https://dlhd.link/index.php?cat=Motorsport"
-          ]
-        },
-        {
           "fuente": "crackstreams.blog",
           "pagina": "https://crackstreams.blog/",
           "enlaces": [
@@ -149,26 +75,26 @@
           "fuente": "www.viprow.co",
           "pagina": "https://www.viprow.co/",
           "enlaces": [
-            "https://www.viprow.co/",
+            "https://www.viprow.co/sports-volleyball-online",
+            "https://www.viprow.co/sports-darts-online",
             "https://www.viprow.co/sports-rugby-online",
-            "https://www.viprow.co/sports-formula-1-online",
-            "https://www.viprow.co/sports-ufc-online",
-            "https://www.viprow.co/sports-tennis-online"
+            "https://www.viprow.co/sports-american-football-online",
+            "https://www.viprow.co/sports-football-online"
           ]
         },
         {
           "fuente": "lmao.love",
           "pagina": "https://lmao.love/channels/",
           "enlaces": [
-            "https://lmao.love/stream/420",
-            "https://lmao.love/stream/259",
-            "https://lmao.love/stream/60",
-            "https://lmao.love/stream/945",
-            "https://lmao.love/stream/122"
+            "https://lmao.love/stream/917",
+            "https://lmao.love/stream/231",
+            "https://lmao.love/stream/258",
+            "https://lmao.love/stream/922",
+            "https://lmao.love/stream/621"
           ]
         }
       ],
-      "ultima_actualizacion": "2026-02-24T06:44:47.037656"
+      "ultima_actualizacion": "2026-02-25T06:47:04.750672"
     },
     {
       "liga": "LaLiga",
@@ -178,7 +104,7 @@
       "fecha": "2026-02-28T15:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-02-24T06:44:54.478418"
+      "ultima_actualizacion": "2026-02-25T06:47:12.597569"
     },
     {
       "liga": "LaLiga",
@@ -188,7 +114,7 @@
       "fecha": "2026-02-28T15:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-02-24T06:45:02.007535"
+      "ultima_actualizacion": "2026-02-25T06:47:20.578002"
     },
     {
       "liga": "LaLiga",
@@ -198,7 +124,7 @@
       "fecha": "2026-02-28T15:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-02-24T06:45:10.054607"
+      "ultima_actualizacion": "2026-02-25T06:47:28.488394"
     },
     {
       "liga": "LaLiga",
@@ -208,7 +134,7 @@
       "fecha": "2026-02-28T15:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-02-24T06:45:17.567613"
+      "ultima_actualizacion": "2026-02-25T06:47:36.781546"
     },
     {
       "liga": "LaLiga",
@@ -218,7 +144,7 @@
       "fecha": "2026-02-28T15:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-02-24T06:45:25.143892"
+      "ultima_actualizacion": "2026-02-25T06:47:45.257875"
     },
     {
       "liga": "LaLiga",
@@ -228,7 +154,37 @@
       "fecha": "2026-02-28T15:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-02-24T06:45:32.543245"
+      "ultima_actualizacion": "2026-02-25T06:47:53.177475"
+    },
+    {
+      "liga": "LaLiga",
+      "partido": "Exeter City vs Burton Albion",
+      "home": "Exeter City",
+      "away": "Burton Albion",
+      "fecha": "2026-03-03T19:45:00",
+      "estado": "NS",
+      "streams": [],
+      "ultima_actualizacion": "2026-02-25T06:48:00.963823"
+    },
+    {
+      "liga": "LaLiga",
+      "partido": "Rotherham United vs Mansfield Town",
+      "home": "Rotherham United",
+      "away": "Mansfield Town",
+      "fecha": "2026-03-03T19:45:00",
+      "estado": "NS",
+      "streams": [],
+      "ultima_actualizacion": "2026-02-25T06:48:08.416804"
+    },
+    {
+      "liga": "LaLiga",
+      "partido": "Barnsley vs Wycombe Wanderers",
+      "home": "Barnsley",
+      "away": "Wycombe Wanderers",
+      "fecha": "2026-03-03T19:45:00",
+      "estado": "NS",
+      "streams": [],
+      "ultima_actualizacion": "2026-02-25T06:48:16.079093"
     }
   ]
 }
