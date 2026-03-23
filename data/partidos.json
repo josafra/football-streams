@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-03-22T06:36:07.688391",
+  "ultima_actualizacion": "2026-03-23T06:55:57.258935",
   "ligas_activas": [
     "LaLiga",
     "Segunda Division"
@@ -18,47 +18,48 @@
           "fuente": "dlhd.link",
           "pagina": "https://dlhd.link/index.php?cat=Soccer",
           "enlaces": [
-            "https://dlhd.link/index.php?cat=Combat+sports",
-            "https://dlhd.link/index.php?cat=Winter+Sports",
+            "https://dlhd.link/watch.php?id=1023",
+            "https://dlhd.link/watch.php?id=637",
+            "https://dlhd.link/watch.php?id=101",
             "https://dlhd.link/index.php?cat=Motorsport",
-            "https://dlhd.link/index.php?cat=Water+Sports"
+            "https://dlhd.link/watch.php?id=540"
           ]
         },
         {
           "fuente": "sportyhunter.com",
           "pagina": "https://sportyhunter.com/sport/football",
           "enlaces": [
-            "https://sportyhunter.com/sport/american-football",
             "https://sportyhunter.com/",
+            "https://sportyhunter.com/sport/american-football",
             "https://sportyhunter.com/sport/baseball",
             "https://sportyhunter.com/sport/mma",
-            "https://sportyhunter.com/sport/ice-hockey"
+            "https://sportyhunter.com/sport/basketball"
           ]
         },
         {
           "fuente": "www.viprow.co",
           "pagina": "https://www.viprow.co/",
           "enlaces": [
-            "https://www.viprow.co/sports-formula-1-online",
-            "https://www.viprow.co/sports-moto-gp-online",
-            "https://www.viprow.co/",
-            "https://www.viprow.co/sports-wwe-online",
-            "https://www.viprow.co/sports-boxing-online"
+            "https://www.viprow.co/sports-football-online",
+            "https://www.viprow.co/sports-motorsports-online",
+            "https://www.viprow.co/sports-boxing-online",
+            "https://www.viprow.co/sports-snooker-online",
+            "https://www.viprow.co/sports-ice-hockey-online"
           ]
         },
         {
           "fuente": "lmao.love",
           "pagina": "https://lmao.love/channels/",
           "enlaces": [
-            "https://lmao.love/stream/497",
-            "https://lmao.love/stream/629",
-            "https://lmao.love/stream/91",
-            "https://lmao.love/stream/714",
-            "https://lmao.love/stream/393"
+            "https://lmao.love/stream/457",
+            "https://lmao.love/stream/833",
+            "https://lmao.love/stream/579",
+            "https://lmao.love/stream/71",
+            "https://lmao.love/stream/65"
           ]
         }
       ],
-      "ultima_actualizacion": "2026-03-22T06:35:05.525797"
+      "ultima_actualizacion": "2026-03-23T06:54:59.072494"
     },
     {
       "liga": "LaLiga",
@@ -68,7 +69,7 @@
       "fecha": "2026-03-28T15:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-03-22T06:35:17.122375"
+      "ultima_actualizacion": "2026-03-23T06:55:09.137060"
     },
     {
       "liga": "LaLiga",
@@ -78,7 +79,7 @@
       "fecha": "2026-03-28T15:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-03-22T06:35:27.394581"
+      "ultima_actualizacion": "2026-03-23T06:55:18.688894"
     },
     {
       "liga": "LaLiga",
@@ -88,7 +89,7 @@
       "fecha": "2026-03-28T15:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-03-22T06:35:37.258907"
+      "ultima_actualizacion": "2026-03-23T06:55:27.887140"
     },
     {
       "liga": "LaLiga",
@@ -98,7 +99,7 @@
       "fecha": "2026-03-28T15:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-03-22T06:35:48.278482"
+      "ultima_actualizacion": "2026-03-23T06:55:38.265319"
     },
     {
       "liga": "LaLiga",
@@ -108,7 +109,7 @@
       "fecha": "2026-03-28T15:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-03-22T06:35:58.256912"
+      "ultima_actualizacion": "2026-03-23T06:55:47.833836"
     },
     {
       "liga": "LaLiga",
@@ -122,47 +123,48 @@
           "fuente": "dlhd.link",
           "pagina": "https://dlhd.link/index.php?cat=Soccer",
           "enlaces": [
-            "https://dlhd.link/index.php?cat=Combat+sports",
-            "https://dlhd.link/index.php?cat=Winter+Sports",
+            "https://dlhd.link/watch.php?id=1023",
+            "https://dlhd.link/watch.php?id=637",
+            "https://dlhd.link/watch.php?id=101",
             "https://dlhd.link/index.php?cat=Motorsport",
-            "https://dlhd.link/index.php?cat=Water+Sports"
+            "https://dlhd.link/watch.php?id=540"
           ]
         },
         {
           "fuente": "sportyhunter.com",
           "pagina": "https://sportyhunter.com/sport/football",
           "enlaces": [
-            "https://sportyhunter.com/sport/american-football",
             "https://sportyhunter.com/",
+            "https://sportyhunter.com/sport/american-football",
             "https://sportyhunter.com/sport/baseball",
             "https://sportyhunter.com/sport/mma",
-            "https://sportyhunter.com/sport/ice-hockey"
+            "https://sportyhunter.com/sport/basketball"
           ]
         },
         {
           "fuente": "www.viprow.co",
           "pagina": "https://www.viprow.co/",
           "enlaces": [
-            "https://www.viprow.co/sports-formula-1-online",
-            "https://www.viprow.co/sports-moto-gp-online",
-            "https://www.viprow.co/",
-            "https://www.viprow.co/sports-wwe-online",
-            "https://www.viprow.co/sports-boxing-online"
+            "https://www.viprow.co/sports-football-online",
+            "https://www.viprow.co/sports-motorsports-online",
+            "https://www.viprow.co/sports-boxing-online",
+            "https://www.viprow.co/sports-snooker-online",
+            "https://www.viprow.co/sports-ice-hockey-online"
           ]
         },
         {
           "fuente": "lmao.love",
           "pagina": "https://lmao.love/channels/",
           "enlaces": [
-            "https://lmao.love/stream/497",
-            "https://lmao.love/stream/629",
-            "https://lmao.love/stream/91",
-            "https://lmao.love/stream/714",
-            "https://lmao.love/stream/393"
+            "https://lmao.love/stream/457",
+            "https://lmao.love/stream/833",
+            "https://lmao.love/stream/579",
+            "https://lmao.love/stream/71",
+            "https://lmao.love/stream/65"
           ]
         }
       ],
-      "ultima_actualizacion": "2026-03-22T06:36:07.688374"
+      "ultima_actualizacion": "2026-03-23T06:55:57.258894"
     }
   ]
 }
