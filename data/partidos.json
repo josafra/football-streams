@@ -1,55 +1,11 @@
 {
-  "ultima_actualizacion": "2026-03-24T06:48:50.878631",
+  "ultima_actualizacion": "2026-03-25T06:47:05.051194",
   "ligas_activas": [
     "LaLiga",
     "Segunda Division"
   ],
-  "total_partidos": 7,
+  "total_partidos": 6,
   "partidos": [
-    {
-      "liga": "LaLiga",
-      "partido": "Doncaster Rovers vs Port Vale",
-      "home": "Doncaster Rovers",
-      "away": "Port Vale",
-      "fecha": "2026-03-24T19:45:00",
-      "estado": "NS",
-      "streams": [
-        {
-          "fuente": "sportyhunter.com",
-          "pagina": "https://sportyhunter.com/sport/football",
-          "enlaces": [
-            "https://sportyhunter.com/sport/mma",
-            "https://sportyhunter.com/sport/basketball",
-            "https://sportyhunter.live/sitemap.xml",
-            "https://sportyhunter.com/sport/football",
-            "https://sportyhunter.com/sport/baseball"
-          ]
-        },
-        {
-          "fuente": "www.viprow.co",
-          "pagina": "https://www.viprow.co/",
-          "enlaces": [
-            "https://www.viprow.co/sports-others-online",
-            "https://www.viprow.co/sports-football-online",
-            "https://www.viprow.co/sports-american-football-online",
-            "https://www.viprow.co/",
-            "https://www.viprow.co/sports-volleyball-online"
-          ]
-        },
-        {
-          "fuente": "lmao.love",
-          "pagina": "https://lmao.love/channels/",
-          "enlaces": [
-            "https://lmao.love/stream/128",
-            "https://lmao.love/stream/630",
-            "https://lmao.love/stream/472",
-            "https://lmao.love/stream/905",
-            "https://lmao.love/stream/606"
-          ]
-        }
-      ],
-      "ultima_actualizacion": "2026-03-24T06:47:41.357898"
-    },
     {
       "liga": "LaLiga",
       "partido": "Blackpool vs Burton Albion",
@@ -58,7 +14,7 @@
       "fecha": "2026-03-28T15:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-03-24T06:47:53.344803"
+      "ultima_actualizacion": "2026-03-25T06:46:05.873670"
     },
     {
       "liga": "LaLiga",
@@ -68,7 +24,7 @@
       "fecha": "2026-03-28T15:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-03-24T06:48:05.696521"
+      "ultima_actualizacion": "2026-03-25T06:46:16.186972"
     },
     {
       "liga": "LaLiga",
@@ -78,7 +34,7 @@
       "fecha": "2026-03-28T15:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-03-24T06:48:16.721048"
+      "ultima_actualizacion": "2026-03-25T06:46:27.471257"
     },
     {
       "liga": "LaLiga",
@@ -88,7 +44,7 @@
       "fecha": "2026-03-28T15:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-03-24T06:48:28.457755"
+      "ultima_actualizacion": "2026-03-25T06:46:38.271724"
     },
     {
       "liga": "LaLiga",
@@ -98,7 +54,7 @@
       "fecha": "2026-03-28T15:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-03-24T06:48:38.811042"
+      "ultima_actualizacion": "2026-03-25T06:46:49.170179"
     },
     {
       "liga": "LaLiga",
@@ -112,48 +68,48 @@
           "fuente": "dlhd.link",
           "pagina": "https://dlhd.link/index.php?cat=Soccer",
           "enlaces": [
-            "https://dlhd.link/watch.php?id=400",
-            "https://dlhd.link/watch.php?id=1060",
+            "https://dlhd.link/watch.php?id=55",
+            "https://dlhd.link/watch.php?id=308",
             "https://dlhd.link/watch.php?id=1033",
-            "https://dlhd.link/watch.php?id=101",
-            "https://dlhd.link/watch.php?id=641"
+            "https://dlhd.link/watch.php?id=94",
+            "https://dlhd.link/watch.php?id=808"
           ]
         },
         {
           "fuente": "sportyhunter.com",
           "pagina": "https://sportyhunter.com/sport/football",
           "enlaces": [
-            "https://sportyhunter.com/sport/mma",
-            "https://sportyhunter.com/sport/basketball",
+            "https://sportyhunter.com/sport/american-football",
+            "https://sportyhunter.com/sport/baseball",
             "https://sportyhunter.live/sitemap.xml",
-            "https://sportyhunter.com/sport/football",
-            "https://sportyhunter.com/sport/baseball"
+            "https://sportyhunter.com/sport/mma",
+            "https://sportyhunter.com/"
           ]
         },
         {
           "fuente": "www.viprow.co",
           "pagina": "https://www.viprow.co/",
           "enlaces": [
+            "https://www.viprow.co/sports-darts-online",
             "https://www.viprow.co/sports-others-online",
-            "https://www.viprow.co/sports-football-online",
-            "https://www.viprow.co/sports-american-football-online",
-            "https://www.viprow.co/",
-            "https://www.viprow.co/sports-volleyball-online"
+            "https://www.viprow.co/sports-basketball-online",
+            "https://www.viprow.co/sports-tennis-online",
+            "https://www.viprow.co/sports-moto-gp-online"
           ]
         },
         {
           "fuente": "lmao.love",
           "pagina": "https://lmao.love/channels/",
           "enlaces": [
-            "https://lmao.love/stream/128",
-            "https://lmao.love/stream/630",
-            "https://lmao.love/stream/472",
-            "https://lmao.love/stream/905",
-            "https://lmao.love/stream/606"
+            "https://lmao.love/stream/410",
+            "https://lmao.love/stream/982",
+            "https://lmao.love/stream/777",
+            "https://lmao.love/stream/215",
+            "https://lmao.love/stream/413"
           ]
         }
       ],
-      "ultima_actualizacion": "2026-03-24T06:48:50.878610"
+      "ultima_actualizacion": "2026-03-25T06:47:05.051174"
     }
   ]
 }
