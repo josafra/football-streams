@@ -1,10 +1,10 @@
 {
-  "ultima_actualizacion": "2026-03-26T06:54:10.464134",
+  "ultima_actualizacion": "2026-03-27T06:54:50.799908",
   "ligas_activas": [
     "LaLiga",
     "Segunda Division"
   ],
-  "total_partidos": 6,
+  "total_partidos": 7,
   "partidos": [
     {
       "liga": "LaLiga",
@@ -14,7 +14,7 @@
       "fecha": "2026-03-28T15:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-03-26T06:53:15.827940"
+      "ultima_actualizacion": "2026-03-27T06:53:40.970285"
     },
     {
       "liga": "LaLiga",
@@ -24,7 +24,7 @@
       "fecha": "2026-03-28T15:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-03-26T06:53:26.124093"
+      "ultima_actualizacion": "2026-03-27T06:53:52.483350"
     },
     {
       "liga": "LaLiga",
@@ -34,7 +34,7 @@
       "fecha": "2026-03-28T15:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-03-26T06:53:36.063816"
+      "ultima_actualizacion": "2026-03-27T06:54:03.787835"
     },
     {
       "liga": "LaLiga",
@@ -44,7 +44,7 @@
       "fecha": "2026-03-28T15:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-03-26T06:53:49.470534"
+      "ultima_actualizacion": "2026-03-27T06:54:15.119747"
     },
     {
       "liga": "LaLiga",
@@ -54,7 +54,7 @@
       "fecha": "2026-03-28T15:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-03-26T06:54:00.195288"
+      "ultima_actualizacion": "2026-03-27T06:54:26.004263"
     },
     {
       "liga": "LaLiga",
@@ -68,37 +68,58 @@
           "fuente": "dlhd.link",
           "pagina": "https://dlhd.link/index.php?cat=Soccer",
           "enlaces": [
-            "https://dlhd.link/watch.php?id=590",
-            "https://dlhd.link/watch.php?id=637",
-            "https://dlhd.link/watch.php?id=375",
-            "https://dlhd.link/watch.php?id=991",
-            "https://dlhd.link/watch.php?id=143"
+            "https://dlhd.link/watch.php?id=465",
+            "https://dlhd.link/watch.php?id=393",
+            "https://dlhd.link/watch.php?id=128",
+            "https://dlhd.link/watch.php?id=434",
+            "https://dlhd.link/watch.php?id=540"
+          ]
+        },
+        {
+          "fuente": "sportyhunter.com",
+          "pagina": "https://sportyhunter.com/sport/football",
+          "enlaces": [
+            "https://sportyhunter.fit/sitemap.xml",
+            "https://sportyhunter.com/",
+            "https://sportyhunter.com/sport/baseball",
+            "https://sportyhunter.com/sport/ice-hockey",
+            "https://sportyhunter.com/sport/american-football"
           ]
         },
         {
           "fuente": "www.viprow.co",
           "pagina": "https://www.viprow.co/",
           "enlaces": [
-            "https://www.viprow.co/sports-moto-gp-online",
-            "https://www.viprow.co/sports-ufc-online",
-            "https://www.viprow.co/sports-snooker-online",
             "https://www.viprow.co/sports-others-online",
-            "https://www.viprow.co/sports-ice-hockey-online"
+            "https://www.viprow.co/sports-fighting-online",
+            "https://www.viprow.co/sports-darts-online",
+            "https://www.viprow.co/sports-golf-online",
+            "https://www.viprow.co/sports-nascar-online"
           ]
         },
         {
           "fuente": "lmao.love",
           "pagina": "https://lmao.love/channels/",
           "enlaces": [
-            "https://lmao.love/stream/642",
-            "https://lmao.love/stream/911",
-            "https://lmao.love/stream/754",
-            "https://lmao.love/stream/639",
-            "https://lmao.love/stream/1024"
+            "https://lmao.love/stream/930",
+            "https://lmao.love/stream/49",
+            "https://lmao.love/stream/489",
+            "https://lmao.love/stream/588",
+            "https://lmao.love/stream/473"
           ]
         }
       ],
-      "ultima_actualizacion": "2026-03-26T06:54:10.464124"
+      "ultima_actualizacion": "2026-03-27T06:54:40.135278"
+    },
+    {
+      "liga": "LaLiga",
+      "partido": "Wigan Athletic vs Leyton Orient",
+      "home": "Wigan Athletic",
+      "away": "Leyton Orient",
+      "fecha": "2026-04-02T18:45:00",
+      "estado": "NS",
+      "streams": [],
+      "ultima_actualizacion": "2026-03-27T06:54:50.799890"
     }
   ]
 }
