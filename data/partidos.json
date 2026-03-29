@@ -1,105 +1,11 @@
 {
-  "ultima_actualizacion": "2026-03-28T06:47:39.988238",
+  "ultima_actualizacion": "2026-03-29T06:51:20.245823",
   "ligas_activas": [
     "LaLiga",
     "Segunda Division"
   ],
-  "total_partidos": 15,
+  "total_partidos": 11,
   "partidos": [
-    {
-      "liga": "LaLiga",
-      "partido": "Blackpool vs Burton Albion",
-      "home": "Blackpool",
-      "away": "Burton Albion",
-      "fecha": "2026-03-28T15:00:00",
-      "estado": "NS",
-      "streams": [],
-      "ultima_actualizacion": "2026-03-28T06:42:00.774766"
-    },
-    {
-      "liga": "LaLiga",
-      "partido": "Bradford City vs Plymouth Argyle",
-      "home": "Bradford City",
-      "away": "Plymouth Argyle",
-      "fecha": "2026-03-28T15:00:00",
-      "estado": "NS",
-      "streams": [],
-      "ultima_actualizacion": "2026-03-28T06:42:33.363169"
-    },
-    {
-      "liga": "LaLiga",
-      "partido": "Exeter City vs Leyton Orient",
-      "home": "Exeter City",
-      "away": "Leyton Orient",
-      "fecha": "2026-03-28T15:00:00",
-      "estado": "NS",
-      "streams": [],
-      "ultima_actualizacion": "2026-03-28T06:43:01.535026"
-    },
-    {
-      "liga": "LaLiga",
-      "partido": "Reading vs Wigan Athletic",
-      "home": "Reading",
-      "away": "Wigan Athletic",
-      "fecha": "2026-03-28T15:00:00",
-      "estado": "NS",
-      "streams": [],
-      "ultima_actualizacion": "2026-03-28T06:43:22.333549"
-    },
-    {
-      "liga": "LaLiga",
-      "partido": "Stockport County vs AFC Wimbledon",
-      "home": "Stockport County",
-      "away": "AFC Wimbledon",
-      "fecha": "2026-03-28T15:00:00",
-      "estado": "NS",
-      "streams": [],
-      "ultima_actualizacion": "2026-03-28T06:43:43.685301"
-    },
-    {
-      "liga": "LaLiga",
-      "partido": "Wycombe Wanderers vs Port Vale",
-      "home": "Wycombe Wanderers",
-      "away": "Port Vale",
-      "fecha": "2026-03-28T15:00:00",
-      "estado": "NS",
-      "streams": [
-        {
-          "fuente": "sportyhunter.com",
-          "pagina": "https://sportyhunter.com/sport/football",
-          "enlaces": [
-            "https://sportyhunter.com/sport/baseball",
-            "https://sportyhunter.fit/sitemap.xml",
-            "https://sportyhunter.com/sport/american-football",
-            "https://sportyhunter.com/sport/ice-hockey",
-            "https://sportyhunter.com/sport/mma"
-          ]
-        },
-        {
-          "fuente": "www.viprow.co",
-          "pagina": "https://www.viprow.co/",
-          "enlaces": [
-            "https://www.viprow.co/sports-volleyball-online",
-            "https://www.viprow.co/sports-aussie-rules-online",
-            "https://www.viprow.co/sports-boxing-online",
-            "https://www.viprow.co/sports-snooker-online",
-            "https://www.viprow.co/sports-wwe-online"
-          ]
-        },
-        {
-          "fuente": "lmao.love",
-          "pagina": "https://lmao.love/channels/",
-          "enlaces": [
-            "https://lmao.love/stream/490",
-            "https://lmao.love/stream/911",
-            "https://lmao.love/stream/629",
-            "https://lmao.love/stream/714",
-            "https://lmao.love/stream/559"
-          ]
-        }
-      ],
-      "ultima_actualizacion": "2026-03-28T06:44:17.398213"
-    },
     {
       "liga": "LaLiga",
       "partido": "Wigan Athletic vs Leyton Orient",
@@ -108,7 +14,7 @@
       "fecha": "2026-04-02T18:45:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-03-28T06:44:38.400318"
+      "ultima_actualizacion": "2026-03-29T06:49:02.539045"
     },
     {
       "liga": "LaLiga",
@@ -118,7 +24,7 @@
       "fecha": "2026-04-03T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-03-28T06:44:59.627356"
+      "ultima_actualizacion": "2026-03-29T06:49:12.499108"
     },
     {
       "liga": "LaLiga",
@@ -128,7 +34,7 @@
       "fecha": "2026-04-03T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-03-28T06:45:20.329406"
+      "ultima_actualizacion": "2026-03-29T06:49:22.644412"
     },
     {
       "liga": "LaLiga",
@@ -138,7 +44,7 @@
       "fecha": "2026-04-03T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-03-28T06:46:02.069175"
+      "ultima_actualizacion": "2026-03-29T06:49:31.816869"
     },
     {
       "liga": "LaLiga",
@@ -148,7 +54,7 @@
       "fecha": "2026-04-03T11:30:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-03-28T06:46:22.760738"
+      "ultima_actualizacion": "2026-03-29T06:49:45.380404"
     },
     {
       "liga": "LaLiga",
@@ -158,7 +64,7 @@
       "fecha": "2026-04-03T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-03-28T06:46:32.174143"
+      "ultima_actualizacion": "2026-03-29T06:49:54.825374"
     },
     {
       "liga": "LaLiga",
@@ -168,7 +74,7 @@
       "fecha": "2026-04-03T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-03-28T06:47:01.266635"
+      "ultima_actualizacion": "2026-03-29T06:50:04.194573"
     },
     {
       "liga": "LaLiga",
@@ -178,7 +84,7 @@
       "fecha": "2026-04-03T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-03-28T06:47:20.414798"
+      "ultima_actualizacion": "2026-03-29T06:50:23.207985"
     },
     {
       "liga": "LaLiga",
@@ -188,7 +94,27 @@
       "fecha": "2026-04-03T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-03-28T06:47:39.988219"
+      "ultima_actualizacion": "2026-03-29T06:50:42.034953"
+    },
+    {
+      "liga": "LaLiga",
+      "partido": "Rotherham United vs Stevenage",
+      "home": "Rotherham United",
+      "away": "Stevenage",
+      "fecha": "2026-04-03T14:00:00",
+      "estado": "NS",
+      "streams": [],
+      "ultima_actualizacion": "2026-03-29T06:51:00.924990"
+    },
+    {
+      "liga": "LaLiga",
+      "partido": "Stockport County vs Wycombe Wanderers",
+      "home": "Stockport County",
+      "away": "Wycombe Wanderers",
+      "fecha": "2026-04-03T14:00:00",
+      "estado": "NS",
+      "streams": [],
+      "ultima_actualizacion": "2026-03-29T06:51:20.245804"
     }
   ]
 }
