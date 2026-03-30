@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-03-29T06:51:20.245823",
+  "ultima_actualizacion": "2026-03-30T07:13:52.863438",
   "ligas_activas": [
     "LaLiga",
     "Segunda Division"
@@ -14,7 +14,7 @@
       "fecha": "2026-04-02T18:45:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-03-29T06:49:02.539045"
+      "ultima_actualizacion": "2026-03-30T07:12:04.182659"
     },
     {
       "liga": "LaLiga",
@@ -24,7 +24,7 @@
       "fecha": "2026-04-03T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-03-29T06:49:12.499108"
+      "ultima_actualizacion": "2026-03-30T07:12:15.027458"
     },
     {
       "liga": "LaLiga",
@@ -34,7 +34,7 @@
       "fecha": "2026-04-03T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-03-29T06:49:22.644412"
+      "ultima_actualizacion": "2026-03-30T07:12:25.295226"
     },
     {
       "liga": "LaLiga",
@@ -44,7 +44,7 @@
       "fecha": "2026-04-03T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-03-29T06:49:31.816869"
+      "ultima_actualizacion": "2026-03-30T07:12:35.193936"
     },
     {
       "liga": "LaLiga",
@@ -54,7 +54,7 @@
       "fecha": "2026-04-03T11:30:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-03-29T06:49:45.380404"
+      "ultima_actualizacion": "2026-03-30T07:12:45.894915"
     },
     {
       "liga": "LaLiga",
@@ -64,7 +64,7 @@
       "fecha": "2026-04-03T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-03-29T06:49:54.825374"
+      "ultima_actualizacion": "2026-03-30T07:12:57.116735"
     },
     {
       "liga": "LaLiga",
@@ -74,7 +74,7 @@
       "fecha": "2026-04-03T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-03-29T06:50:04.194573"
+      "ultima_actualizacion": "2026-03-30T07:13:07.472553"
     },
     {
       "liga": "LaLiga",
@@ -84,7 +84,7 @@
       "fecha": "2026-04-03T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-03-29T06:50:23.207985"
+      "ultima_actualizacion": "2026-03-30T07:13:17.392570"
     },
     {
       "liga": "LaLiga",
@@ -94,7 +94,7 @@
       "fecha": "2026-04-03T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-03-29T06:50:42.034953"
+      "ultima_actualizacion": "2026-03-30T07:13:27.667152"
     },
     {
       "liga": "LaLiga",
@@ -104,7 +104,7 @@
       "fecha": "2026-04-03T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-03-29T06:51:00.924990"
+      "ultima_actualizacion": "2026-03-30T07:13:38.259379"
     },
     {
       "liga": "LaLiga",
@@ -114,7 +114,7 @@
       "fecha": "2026-04-03T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-03-29T06:51:20.245804"
+      "ultima_actualizacion": "2026-03-30T07:13:52.863421"
     }
   ]
 }
