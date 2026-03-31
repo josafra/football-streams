@@ -1,10 +1,10 @@
 {
-  "ultima_actualizacion": "2026-03-30T07:13:52.863438",
+  "ultima_actualizacion": "2026-03-31T07:01:01.543706",
   "ligas_activas": [
     "LaLiga",
     "Segunda Division"
   ],
-  "total_partidos": 11,
+  "total_partidos": 15,
   "partidos": [
     {
       "liga": "LaLiga",
@@ -14,7 +14,7 @@
       "fecha": "2026-04-02T18:45:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-03-30T07:12:04.182659"
+      "ultima_actualizacion": "2026-03-31T06:58:26.945485"
     },
     {
       "liga": "LaLiga",
@@ -24,7 +24,7 @@
       "fecha": "2026-04-03T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-03-30T07:12:15.027458"
+      "ultima_actualizacion": "2026-03-31T06:58:37.927484"
     },
     {
       "liga": "LaLiga",
@@ -34,7 +34,7 @@
       "fecha": "2026-04-03T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-03-30T07:12:25.295226"
+      "ultima_actualizacion": "2026-03-31T06:58:48.886434"
     },
     {
       "liga": "LaLiga",
@@ -44,7 +44,7 @@
       "fecha": "2026-04-03T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-03-30T07:12:35.193936"
+      "ultima_actualizacion": "2026-03-31T06:59:00.291897"
     },
     {
       "liga": "LaLiga",
@@ -54,7 +54,7 @@
       "fecha": "2026-04-03T11:30:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-03-30T07:12:45.894915"
+      "ultima_actualizacion": "2026-03-31T06:59:12.314939"
     },
     {
       "liga": "LaLiga",
@@ -64,7 +64,7 @@
       "fecha": "2026-04-03T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-03-30T07:12:57.116735"
+      "ultima_actualizacion": "2026-03-31T06:59:22.926585"
     },
     {
       "liga": "LaLiga",
@@ -74,7 +74,7 @@
       "fecha": "2026-04-03T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-03-30T07:13:07.472553"
+      "ultima_actualizacion": "2026-03-31T06:59:36.893082"
     },
     {
       "liga": "LaLiga",
@@ -84,7 +84,7 @@
       "fecha": "2026-04-03T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-03-30T07:13:17.392570"
+      "ultima_actualizacion": "2026-03-31T06:59:47.345181"
     },
     {
       "liga": "LaLiga",
@@ -94,7 +94,7 @@
       "fecha": "2026-04-03T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-03-30T07:13:27.667152"
+      "ultima_actualizacion": "2026-03-31T06:59:57.790738"
     },
     {
       "liga": "LaLiga",
@@ -104,7 +104,7 @@
       "fecha": "2026-04-03T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-03-30T07:13:38.259379"
+      "ultima_actualizacion": "2026-03-31T07:00:08.909050"
     },
     {
       "liga": "LaLiga",
@@ -114,7 +114,47 @@
       "fecha": "2026-04-03T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-03-30T07:13:52.863421"
+      "ultima_actualizacion": "2026-03-31T07:00:19.149758"
+    },
+    {
+      "liga": "LaLiga",
+      "partido": "AFC Wimbledon vs Luton Town",
+      "home": "AFC Wimbledon",
+      "away": "Luton Town",
+      "fecha": "2026-04-06T14:00:00",
+      "estado": "NS",
+      "streams": [],
+      "ultima_actualizacion": "2026-03-31T07:00:29.315370"
+    },
+    {
+      "liga": "LaLiga",
+      "partido": "Barnsley vs Plymouth Argyle",
+      "home": "Barnsley",
+      "away": "Plymouth Argyle",
+      "fecha": "2026-04-06T14:00:00",
+      "estado": "NS",
+      "streams": [],
+      "ultima_actualizacion": "2026-03-31T07:00:39.789485"
+    },
+    {
+      "liga": "LaLiga",
+      "partido": "Bolton Wanderers vs Stockport County",
+      "home": "Bolton Wanderers",
+      "away": "Stockport County",
+      "fecha": "2026-04-06T14:00:00",
+      "estado": "NS",
+      "streams": [],
+      "ultima_actualizacion": "2026-03-31T07:00:51.162937"
+    },
+    {
+      "liga": "LaLiga",
+      "partido": "Exeter City vs Doncaster Rovers",
+      "home": "Exeter City",
+      "away": "Doncaster Rovers",
+      "fecha": "2026-04-06T14:00:00",
+      "estado": "NS",
+      "streams": [],
+      "ultima_actualizacion": "2026-03-31T07:01:01.543688"
     }
   ]
 }
