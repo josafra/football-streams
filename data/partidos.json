@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-04-01T07:10:36.123158",
+  "ultima_actualizacion": "2026-04-02T06:59:12.102844",
   "ligas_activas": [
     "LaLiga",
     "Segunda Division"
@@ -14,7 +14,7 @@
       "fecha": "2026-04-02T18:45:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-01T07:05:44.912524"
+      "ultima_actualizacion": "2026-04-02T06:56:52.168696"
     },
     {
       "liga": "LaLiga",
@@ -24,7 +24,7 @@
       "fecha": "2026-04-03T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-01T07:06:05.461580"
+      "ultima_actualizacion": "2026-04-02T06:57:05.087268"
     },
     {
       "liga": "LaLiga",
@@ -34,7 +34,7 @@
       "fecha": "2026-04-03T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-01T07:06:29.911187"
+      "ultima_actualizacion": "2026-04-02T06:57:15.250452"
     },
     {
       "liga": "LaLiga",
@@ -44,7 +44,7 @@
       "fecha": "2026-04-03T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-01T07:06:54.221767"
+      "ultima_actualizacion": "2026-04-02T06:57:24.693157"
     },
     {
       "liga": "LaLiga",
@@ -54,7 +54,7 @@
       "fecha": "2026-04-03T11:30:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-01T07:07:13.922060"
+      "ultima_actualizacion": "2026-04-02T06:57:34.425468"
     },
     {
       "liga": "LaLiga",
@@ -64,7 +64,7 @@
       "fecha": "2026-04-03T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-01T07:07:38.724952"
+      "ultima_actualizacion": "2026-04-02T06:57:44.083594"
     },
     {
       "liga": "LaLiga",
@@ -74,7 +74,7 @@
       "fecha": "2026-04-03T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-01T07:07:59.329853"
+      "ultima_actualizacion": "2026-04-02T06:57:54.068026"
     },
     {
       "liga": "LaLiga",
@@ -84,7 +84,7 @@
       "fecha": "2026-04-03T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-01T07:08:18.655533"
+      "ultima_actualizacion": "2026-04-02T06:58:03.569690"
     },
     {
       "liga": "LaLiga",
@@ -94,7 +94,7 @@
       "fecha": "2026-04-03T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-01T07:08:37.818081"
+      "ultima_actualizacion": "2026-04-02T06:58:13.523153"
     },
     {
       "liga": "LaLiga",
@@ -104,7 +104,7 @@
       "fecha": "2026-04-03T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-01T07:08:57.357922"
+      "ultima_actualizacion": "2026-04-02T06:58:23.581340"
     },
     {
       "liga": "LaLiga",
@@ -114,7 +114,7 @@
       "fecha": "2026-04-03T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-01T07:09:17.636820"
+      "ultima_actualizacion": "2026-04-02T06:58:32.827752"
     },
     {
       "liga": "LaLiga",
@@ -124,7 +124,7 @@
       "fecha": "2026-04-06T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-01T07:09:37.410781"
+      "ultima_actualizacion": "2026-04-02T06:58:43.504400"
     },
     {
       "liga": "LaLiga",
@@ -134,7 +134,7 @@
       "fecha": "2026-04-06T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-01T07:09:56.463308"
+      "ultima_actualizacion": "2026-04-02T06:58:53.067469"
     },
     {
       "liga": "LaLiga",
@@ -144,7 +144,7 @@
       "fecha": "2026-04-06T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-01T07:10:16.224710"
+      "ultima_actualizacion": "2026-04-02T06:59:02.563190"
     },
     {
       "liga": "LaLiga",
@@ -154,7 +154,7 @@
       "fecha": "2026-04-06T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-01T07:10:36.123139"
+      "ultima_actualizacion": "2026-04-02T06:59:12.102827"
     }
   ]
 }
