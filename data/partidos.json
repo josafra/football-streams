@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-04-08T07:04:49.398995",
+  "ultima_actualizacion": "2026-04-09T07:09:23.533475",
   "ligas_activas": [
     "LaLiga",
     "Segunda Division"
@@ -14,7 +14,7 @@
       "fecha": "2026-04-11T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-08T07:02:44.944513"
+      "ultima_actualizacion": "2026-04-09T07:06:50.689388"
     },
     {
       "liga": "LaLiga",
@@ -24,7 +24,7 @@
       "fecha": "2026-04-11T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-08T07:02:54.202892"
+      "ultima_actualizacion": "2026-04-09T07:07:01.775342"
     },
     {
       "liga": "LaLiga",
@@ -34,7 +34,7 @@
       "fecha": "2026-04-11T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-08T07:03:04.724148"
+      "ultima_actualizacion": "2026-04-09T07:07:15.975387"
     },
     {
       "liga": "LaLiga",
@@ -44,7 +44,7 @@
       "fecha": "2026-04-11T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-08T07:03:13.426249"
+      "ultima_actualizacion": "2026-04-09T07:07:26.673817"
     },
     {
       "liga": "LaLiga",
@@ -54,7 +54,7 @@
       "fecha": "2026-04-11T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-08T07:03:22.136641"
+      "ultima_actualizacion": "2026-04-09T07:07:37.368590"
     },
     {
       "liga": "LaLiga",
@@ -64,7 +64,7 @@
       "fecha": "2026-04-11T11:30:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-08T07:03:30.536024"
+      "ultima_actualizacion": "2026-04-09T07:07:47.882405"
     },
     {
       "liga": "LaLiga",
@@ -74,7 +74,7 @@
       "fecha": "2026-04-11T11:30:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-08T07:03:39.233577"
+      "ultima_actualizacion": "2026-04-09T07:07:58.322823"
     },
     {
       "liga": "LaLiga",
@@ -84,7 +84,7 @@
       "fecha": "2026-04-11T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-08T07:03:48.025037"
+      "ultima_actualizacion": "2026-04-09T07:08:09.375095"
     },
     {
       "liga": "LaLiga",
@@ -94,7 +94,7 @@
       "fecha": "2026-04-11T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-08T07:03:56.590259"
+      "ultima_actualizacion": "2026-04-09T07:08:19.670539"
     },
     {
       "liga": "LaLiga",
@@ -104,7 +104,7 @@
       "fecha": "2026-04-11T11:30:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-08T07:04:06.028071"
+      "ultima_actualizacion": "2026-04-09T07:08:30.397084"
     },
     {
       "liga": "LaLiga",
@@ -118,37 +118,48 @@
           "fuente": "dlhd.link",
           "pagina": "https://dlhd.link/index.php?cat=Soccer",
           "enlaces": [
-            "https://dlhd.link/watch.php?id=414",
-            "https://dlhd.link/watch.php?id=911",
-            "https://dlhd.link/watch.php?id=94",
-            "https://dlhd.link/watch.php?id=22",
-            "https://dlhd.link/watch.php?id=393"
+            "https://dlhd.link/watch.php?id=434",
+            "https://dlhd.link/watch.php?id=809",
+            "https://dlhd.link/watch.php?id=870",
+            "https://dlhd.link/watch.php?id=994",
+            "https://dlhd.link/watch.php?id=559"
           ]
         },
         {
           "fuente": "sportyhunter.com",
           "pagina": "https://sportyhunter.com/sport/football",
           "enlaces": [
-            "https://sportyhunter.com/sport/basketball",
             "https://sportyhunter.com/sport/football",
+            "https://sportyhunter.com/sport/american-football",
             "https://sportyhunter.com/sport/ice-hockey",
             "https://sportyhunter.com/sport/mma",
-            "https://sportyhunter.com/sport/baseball"
+            "https://sportyhunter.com/"
+          ]
+        },
+        {
+          "fuente": "www.viprow.co",
+          "pagina": "https://www.viprow.co/",
+          "enlaces": [
+            "https://www.viprow.co/sports-football-online",
+            "https://www.viprow.co/sports-moto-gp-online",
+            "https://www.viprow.co/sports-american-football-online",
+            "https://www.viprow.co/sports-tennis-online",
+            "https://www.viprow.co/sports-basketball-online"
           ]
         },
         {
           "fuente": "lmao.love",
           "pagina": "https://lmao.love/channels/",
           "enlaces": [
-            "https://lmao.love/stream/459",
-            "https://lmao.love/stream/453",
-            "https://lmao.love/stream/402",
-            "https://lmao.love/stream/93",
-            "https://lmao.love/stream/411"
+            "https://lmao.love/stream/575",
+            "https://lmao.love/stream/920",
+            "https://lmao.love/stream/48",
+            "https://lmao.love/stream/97",
+            "https://lmao.love/stream/416"
           ]
         }
       ],
-      "ultima_actualizacion": "2026-04-08T07:04:15.056562"
+      "ultima_actualizacion": "2026-04-09T07:08:40.988374"
     },
     {
       "liga": "LaLiga",
@@ -158,7 +169,7 @@
       "fecha": "2026-04-14T18:45:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-08T07:04:23.756759"
+      "ultima_actualizacion": "2026-04-09T07:08:51.022161"
     },
     {
       "liga": "LaLiga",
@@ -168,7 +179,7 @@
       "fecha": "2026-04-14T18:45:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-08T07:04:32.067026"
+      "ultima_actualizacion": "2026-04-09T07:09:02.321122"
     },
     {
       "liga": "LaLiga",
@@ -178,7 +189,7 @@
       "fecha": "2026-04-14T18:45:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-08T07:04:40.619402"
+      "ultima_actualizacion": "2026-04-09T07:09:12.903128"
     },
     {
       "liga": "LaLiga",
@@ -188,7 +199,7 @@
       "fecha": "2026-04-14T18:45:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-08T07:04:49.398972"
+      "ultima_actualizacion": "2026-04-09T07:09:23.533459"
     }
   ]
 }
