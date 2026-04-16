@@ -1,31 +1,11 @@
 {
-  "ultima_actualizacion": "2026-04-15T07:17:28.436788",
+  "ultima_actualizacion": "2026-04-16T07:17:39.851206",
   "ligas_activas": [
     "LaLiga",
     "Segunda Division"
   ],
   "total_partidos": 15,
   "partidos": [
-    {
-      "liga": "LaLiga",
-      "partido": "AFC Wimbledon vs Stockport County",
-      "home": "AFC Wimbledon",
-      "away": "Stockport County",
-      "fecha": "2026-04-15T18:45:00",
-      "estado": "NS",
-      "streams": [],
-      "ultima_actualizacion": "2026-04-15T07:14:33.287532"
-    },
-    {
-      "liga": "LaLiga",
-      "partido": "Luton Town vs Northampton Town",
-      "home": "Luton Town",
-      "away": "Northampton Town",
-      "fecha": "2026-04-15T18:45:00",
-      "estado": "NS",
-      "streams": [],
-      "ultima_actualizacion": "2026-04-15T07:14:45.250007"
-    },
     {
       "liga": "LaLiga",
       "partido": "Peterborough United vs Port Vale",
@@ -38,33 +18,35 @@
           "fuente": "dlhd.link",
           "pagina": "https://dlhd.link/index.php?cat=Soccer",
           "enlaces": [
-            "https://dlhd.link/index.php?cat=Other+Sports"
+            "https://dlhd.link/index.php?cat=Other+Sports",
+            "https://dlhd.link/index.php?cat=Combat+sports",
+            "https://dlhd.link/index.php?cat=Motorsport"
           ]
         },
         {
           "fuente": "sportyhunter.com",
           "pagina": "https://sportyhunter.com/sport/football",
           "enlaces": [
-            "https://sportyhunter.com/sport/baseball",
-            "https://sportyhunter.com/sport/football",
-            "https://sportyhunter.com/sport/basketball",
+            "https://sportyhunter.com/",
             "https://sportyhunter.com/sport/american-football",
-            "https://sportyhunter.com/sport/ice-hockey"
+            "https://sportyhunter.com/sport/football",
+            "https://sportyhunter.com/sport/mma",
+            "https://sportyhunter.com/sport/basketball"
           ]
         },
         {
           "fuente": "www.viprow.co",
           "pagina": "https://www.viprow.co/",
           "enlaces": [
-            "https://www.viprow.co/sports-golf-online",
-            "https://www.viprow.co/sports-darts-online",
-            "https://www.viprow.co/sports-rugby-online",
-            "https://www.viprow.co/sports-basketball-online",
-            "https://www.viprow.co/sports-tennis-online"
+            "https://www.viprow.co/sports-nascar-online",
+            "https://www.viprow.co/sports-snooker-online",
+            "https://www.viprow.co/sports-ufc-online",
+            "https://www.viprow.co/sports-aussie-rules-online",
+            "https://www.viprow.co/sports-cycling-online"
           ]
         }
       ],
-      "ultima_actualizacion": "2026-04-15T07:14:56.627160"
+      "ultima_actualizacion": "2026-04-16T07:14:51.165488"
     },
     {
       "liga": "LaLiga",
@@ -74,7 +56,7 @@
       "fecha": "2026-04-18T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-15T07:15:08.584030"
+      "ultima_actualizacion": "2026-04-16T07:15:03.799524"
     },
     {
       "liga": "LaLiga",
@@ -84,7 +66,7 @@
       "fecha": "2026-04-18T11:30:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-15T07:15:24.407901"
+      "ultima_actualizacion": "2026-04-16T07:15:20.191112"
     },
     {
       "liga": "LaLiga",
@@ -94,7 +76,7 @@
       "fecha": "2026-04-18T11:30:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-15T07:15:40.315651"
+      "ultima_actualizacion": "2026-04-16T07:15:32.815085"
     },
     {
       "liga": "LaLiga",
@@ -104,7 +86,7 @@
       "fecha": "2026-04-18T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-15T07:15:52.132611"
+      "ultima_actualizacion": "2026-04-16T07:15:44.810912"
     },
     {
       "liga": "LaLiga",
@@ -114,7 +96,7 @@
       "fecha": "2026-04-18T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-15T07:16:03.685589"
+      "ultima_actualizacion": "2026-04-16T07:15:56.782231"
     },
     {
       "liga": "LaLiga",
@@ -124,7 +106,7 @@
       "fecha": "2026-04-18T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-15T07:16:15.499689"
+      "ultima_actualizacion": "2026-04-16T07:16:08.052702"
     },
     {
       "liga": "LaLiga",
@@ -134,7 +116,7 @@
       "fecha": "2026-04-18T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-15T07:16:31.955198"
+      "ultima_actualizacion": "2026-04-16T07:16:19.493511"
     },
     {
       "liga": "LaLiga",
@@ -144,7 +126,7 @@
       "fecha": "2026-04-18T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-15T07:16:44.070189"
+      "ultima_actualizacion": "2026-04-16T07:16:30.411860"
     },
     {
       "liga": "LaLiga",
@@ -154,7 +136,7 @@
       "fecha": "2026-04-18T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-15T07:16:55.044819"
+      "ultima_actualizacion": "2026-04-16T07:16:41.925752"
     },
     {
       "liga": "LaLiga",
@@ -164,7 +146,7 @@
       "fecha": "2026-04-18T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-15T07:17:06.253880"
+      "ultima_actualizacion": "2026-04-16T07:16:54.801270"
     },
     {
       "liga": "LaLiga",
@@ -174,7 +156,7 @@
       "fecha": "2026-04-19T12:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-15T07:17:17.355567"
+      "ultima_actualizacion": "2026-04-16T07:17:06.403318"
     },
     {
       "liga": "LaLiga",
@@ -188,33 +170,55 @@
           "fuente": "dlhd.link",
           "pagina": "https://dlhd.link/index.php?cat=Soccer",
           "enlaces": [
-            "https://dlhd.link/index.php?cat=Other+Sports"
+            "https://dlhd.link/index.php?cat=Other+Sports",
+            "https://dlhd.link/index.php?cat=Combat+sports",
+            "https://dlhd.link/index.php?cat=Motorsport"
           ]
         },
         {
           "fuente": "sportyhunter.com",
           "pagina": "https://sportyhunter.com/sport/football",
           "enlaces": [
-            "https://sportyhunter.com/sport/baseball",
-            "https://sportyhunter.com/sport/football",
-            "https://sportyhunter.com/sport/basketball",
+            "https://sportyhunter.com/",
             "https://sportyhunter.com/sport/american-football",
-            "https://sportyhunter.com/sport/ice-hockey"
+            "https://sportyhunter.com/sport/football",
+            "https://sportyhunter.com/sport/mma",
+            "https://sportyhunter.com/sport/basketball"
           ]
         },
         {
           "fuente": "www.viprow.co",
           "pagina": "https://www.viprow.co/",
           "enlaces": [
-            "https://www.viprow.co/sports-golf-online",
-            "https://www.viprow.co/sports-darts-online",
-            "https://www.viprow.co/sports-rugby-online",
-            "https://www.viprow.co/sports-basketball-online",
-            "https://www.viprow.co/sports-tennis-online"
+            "https://www.viprow.co/sports-nascar-online",
+            "https://www.viprow.co/sports-snooker-online",
+            "https://www.viprow.co/sports-ufc-online",
+            "https://www.viprow.co/sports-aussie-rules-online",
+            "https://www.viprow.co/sports-cycling-online"
           ]
         }
       ],
-      "ultima_actualizacion": "2026-04-15T07:17:28.436770"
+      "ultima_actualizacion": "2026-04-16T07:17:17.353002"
+    },
+    {
+      "liga": "LaLiga",
+      "partido": "Stevenage vs Barnsley",
+      "home": "Stevenage",
+      "away": "Barnsley",
+      "fecha": "2026-04-21T18:45:00",
+      "estado": "NS",
+      "streams": [],
+      "ultima_actualizacion": "2026-04-16T07:17:28.622309"
+    },
+    {
+      "liga": "LaLiga",
+      "partido": "Stockport County vs Mansfield Town",
+      "home": "Stockport County",
+      "away": "Mansfield Town",
+      "fecha": "2026-04-21T18:45:00",
+      "estado": "NS",
+      "streams": [],
+      "ultima_actualizacion": "2026-04-16T07:17:39.851189"
     }
   ]
 }
