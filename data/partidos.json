@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-04-16T07:17:39.851206",
+  "ultima_actualizacion": "2026-04-17T07:18:31.838325",
   "ligas_activas": [
     "LaLiga",
     "Segunda Division"
@@ -8,55 +8,13 @@
   "partidos": [
     {
       "liga": "LaLiga",
-      "partido": "Peterborough United vs Port Vale",
-      "home": "Peterborough United",
-      "away": "Port Vale",
-      "fecha": "2026-04-16T18:45:00",
-      "estado": "NS",
-      "streams": [
-        {
-          "fuente": "dlhd.link",
-          "pagina": "https://dlhd.link/index.php?cat=Soccer",
-          "enlaces": [
-            "https://dlhd.link/index.php?cat=Other+Sports",
-            "https://dlhd.link/index.php?cat=Combat+sports",
-            "https://dlhd.link/index.php?cat=Motorsport"
-          ]
-        },
-        {
-          "fuente": "sportyhunter.com",
-          "pagina": "https://sportyhunter.com/sport/football",
-          "enlaces": [
-            "https://sportyhunter.com/",
-            "https://sportyhunter.com/sport/american-football",
-            "https://sportyhunter.com/sport/football",
-            "https://sportyhunter.com/sport/mma",
-            "https://sportyhunter.com/sport/basketball"
-          ]
-        },
-        {
-          "fuente": "www.viprow.co",
-          "pagina": "https://www.viprow.co/",
-          "enlaces": [
-            "https://www.viprow.co/sports-nascar-online",
-            "https://www.viprow.co/sports-snooker-online",
-            "https://www.viprow.co/sports-ufc-online",
-            "https://www.viprow.co/sports-aussie-rules-online",
-            "https://www.viprow.co/sports-cycling-online"
-          ]
-        }
-      ],
-      "ultima_actualizacion": "2026-04-16T07:14:51.165488"
-    },
-    {
-      "liga": "LaLiga",
       "partido": "AFC Wimbledon vs Plymouth Argyle",
       "home": "AFC Wimbledon",
       "away": "Plymouth Argyle",
       "fecha": "2026-04-18T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-16T07:15:03.799524"
+      "ultima_actualizacion": "2026-04-17T07:15:35.665994"
     },
     {
       "liga": "LaLiga",
@@ -66,7 +24,7 @@
       "fecha": "2026-04-18T11:30:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-16T07:15:20.191112"
+      "ultima_actualizacion": "2026-04-17T07:15:52.186019"
     },
     {
       "liga": "LaLiga",
@@ -76,7 +34,7 @@
       "fecha": "2026-04-18T11:30:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-16T07:15:32.815085"
+      "ultima_actualizacion": "2026-04-17T07:16:07.041434"
     },
     {
       "liga": "LaLiga",
@@ -86,7 +44,7 @@
       "fecha": "2026-04-18T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-16T07:15:44.810912"
+      "ultima_actualizacion": "2026-04-17T07:16:21.119542"
     },
     {
       "liga": "LaLiga",
@@ -96,7 +54,7 @@
       "fecha": "2026-04-18T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-16T07:15:56.782231"
+      "ultima_actualizacion": "2026-04-17T07:16:32.949901"
     },
     {
       "liga": "LaLiga",
@@ -106,7 +64,7 @@
       "fecha": "2026-04-18T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-16T07:16:08.052702"
+      "ultima_actualizacion": "2026-04-17T07:16:45.030870"
     },
     {
       "liga": "LaLiga",
@@ -116,7 +74,7 @@
       "fecha": "2026-04-18T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-16T07:16:19.493511"
+      "ultima_actualizacion": "2026-04-17T07:16:56.299787"
     },
     {
       "liga": "LaLiga",
@@ -126,7 +84,7 @@
       "fecha": "2026-04-18T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-16T07:16:30.411860"
+      "ultima_actualizacion": "2026-04-17T07:17:08.429532"
     },
     {
       "liga": "LaLiga",
@@ -136,7 +94,7 @@
       "fecha": "2026-04-18T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-16T07:16:41.925752"
+      "ultima_actualizacion": "2026-04-17T07:17:20.266257"
     },
     {
       "liga": "LaLiga",
@@ -146,7 +104,7 @@
       "fecha": "2026-04-18T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-16T07:16:54.801270"
+      "ultima_actualizacion": "2026-04-17T07:17:31.320181"
     },
     {
       "liga": "LaLiga",
@@ -156,7 +114,7 @@
       "fecha": "2026-04-19T12:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-16T07:17:06.403318"
+      "ultima_actualizacion": "2026-04-17T07:17:45.914993"
     },
     {
       "liga": "LaLiga",
@@ -170,35 +128,34 @@
           "fuente": "dlhd.link",
           "pagina": "https://dlhd.link/index.php?cat=Soccer",
           "enlaces": [
-            "https://dlhd.link/index.php?cat=Other+Sports",
-            "https://dlhd.link/index.php?cat=Combat+sports",
-            "https://dlhd.link/index.php?cat=Motorsport"
+            "https://dlhd.link/index.php?cat=Motorsport",
+            "https://dlhd.link/index.php?cat=Combat+sports"
           ]
         },
         {
           "fuente": "sportyhunter.com",
           "pagina": "https://sportyhunter.com/sport/football",
           "enlaces": [
-            "https://sportyhunter.com/",
-            "https://sportyhunter.com/sport/american-football",
-            "https://sportyhunter.com/sport/football",
             "https://sportyhunter.com/sport/mma",
-            "https://sportyhunter.com/sport/basketball"
+            "https://sportyhunter.com/sport/ice-hockey",
+            "https://sportyhunter.com/sport/basketball",
+            "https://sportyhunter.com/sport/baseball",
+            "https://sportyhunter.space/sitemap.xml"
           ]
         },
         {
           "fuente": "www.viprow.co",
           "pagina": "https://www.viprow.co/",
           "enlaces": [
-            "https://www.viprow.co/sports-nascar-online",
-            "https://www.viprow.co/sports-snooker-online",
+            "https://www.viprow.co/sports-formula-1-online",
+            "https://www.viprow.co/sports-darts-online",
             "https://www.viprow.co/sports-ufc-online",
-            "https://www.viprow.co/sports-aussie-rules-online",
-            "https://www.viprow.co/sports-cycling-online"
+            "https://www.viprow.co/sports-rugby-online",
+            "https://www.viprow.co/sports-golf-online"
           ]
         }
       ],
-      "ultima_actualizacion": "2026-04-16T07:17:17.353002"
+      "ultima_actualizacion": "2026-04-17T07:17:57.811772"
     },
     {
       "liga": "LaLiga",
@@ -208,7 +165,7 @@
       "fecha": "2026-04-21T18:45:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-16T07:17:28.622309"
+      "ultima_actualizacion": "2026-04-17T07:18:08.892114"
     },
     {
       "liga": "LaLiga",
@@ -218,7 +175,17 @@
       "fecha": "2026-04-21T18:45:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-16T07:17:39.851189"
+      "ultima_actualizacion": "2026-04-17T07:18:20.351176"
+    },
+    {
+      "liga": "LaLiga",
+      "partido": "Bradford City vs Plymouth Argyle",
+      "home": "Bradford City",
+      "away": "Plymouth Argyle",
+      "fecha": "2026-04-21T18:45:00",
+      "estado": "NS",
+      "streams": [],
+      "ultima_actualizacion": "2026-04-17T07:18:31.838305"
     }
   ]
 }
