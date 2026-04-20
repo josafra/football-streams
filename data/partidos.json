@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-04-19T07:06:03.017934",
+  "ultima_actualizacion": "2026-04-20T07:48:26.504976",
   "ligas_activas": [
     "LaLiga",
     "Segunda Division"
@@ -8,67 +8,13 @@
   "partidos": [
     {
       "liga": "LaLiga",
-      "partido": "Peterborough United vs Burton Albion",
-      "home": "Peterborough United",
-      "away": "Burton Albion",
-      "fecha": "2026-04-19T12:00:00",
-      "estado": "NS",
-      "streams": [],
-      "ultima_actualizacion": "2026-04-19T07:03:34.578271"
-    },
-    {
-      "liga": "LaLiga",
-      "partido": "Port Vale vs Wigan Athletic",
-      "home": "Port Vale",
-      "away": "Wigan Athletic",
-      "fecha": "2026-04-19T14:00:00",
-      "estado": "NS",
-      "streams": [
-        {
-          "fuente": "dlhd.link",
-          "pagina": "https://dlhd.link/index.php?cat=Soccer",
-          "enlaces": [
-            "https://dlhd.link/watch.php?id=910",
-            "https://dlhd.link/watch.php?id=21",
-            "https://dlhd.link/watch.php?id=24",
-            "https://dlhd.link/watch.php?id=25",
-            "https://dlhd.link/watch.php?id=474"
-          ]
-        },
-        {
-          "fuente": "sportyhunter.com",
-          "pagina": "https://sportyhunter.com/sport/football",
-          "enlaces": [
-            "https://sportyhunter.com/sport/football",
-            "https://sportyhunter.space/sitemap.xml",
-            "https://sportyhunter.com/sport/basketball",
-            "https://sportyhunter.com/sport/baseball",
-            "https://sportyhunter.com/sport/mma"
-          ]
-        },
-        {
-          "fuente": "www.viprow.co",
-          "pagina": "https://www.viprow.co/",
-          "enlaces": [
-            "https://www.viprow.co/sports-wwe-online",
-            "https://www.viprow.co/sports-ufc-online",
-            "https://www.viprow.co/sports-football-online",
-            "https://www.viprow.co/sports-nascar-online",
-            "https://www.viprow.co/sports-others-online"
-          ]
-        }
-      ],
-      "ultima_actualizacion": "2026-04-19T07:03:45.698734"
-    },
-    {
-      "liga": "LaLiga",
       "partido": "Stevenage vs Barnsley",
       "home": "Stevenage",
       "away": "Barnsley",
       "fecha": "2026-04-21T18:45:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-19T07:03:55.514512"
+      "ultima_actualizacion": "2026-04-20T07:45:35.668920"
     },
     {
       "liga": "LaLiga",
@@ -78,7 +24,7 @@
       "fecha": "2026-04-21T18:45:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-19T07:04:05.865843"
+      "ultima_actualizacion": "2026-04-20T07:45:47.599104"
     },
     {
       "liga": "LaLiga",
@@ -88,7 +34,7 @@
       "fecha": "2026-04-21T18:45:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-19T07:04:16.839229"
+      "ultima_actualizacion": "2026-04-20T07:45:58.978005"
     },
     {
       "liga": "LaLiga",
@@ -98,7 +44,7 @@
       "fecha": "2026-04-21T18:45:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-19T07:04:27.539296"
+      "ultima_actualizacion": "2026-04-20T07:46:14.790142"
     },
     {
       "liga": "LaLiga",
@@ -108,7 +54,7 @@
       "fecha": "2026-04-21T18:45:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-19T07:04:37.889613"
+      "ultima_actualizacion": "2026-04-20T07:46:26.015290"
     },
     {
       "liga": "LaLiga",
@@ -122,37 +68,37 @@
           "fuente": "dlhd.link",
           "pagina": "https://dlhd.link/index.php?cat=Soccer",
           "enlaces": [
-            "https://dlhd.link/watch.php?id=910",
-            "https://dlhd.link/watch.php?id=21",
-            "https://dlhd.link/watch.php?id=24",
-            "https://dlhd.link/watch.php?id=25",
-            "https://dlhd.link/watch.php?id=474"
+            "https://dlhd.link/watch.php?id=61",
+            "https://dlhd.link/watch.php?id=92",
+            "https://dlhd.link/watch.php?id=431",
+            "https://dlhd.link/watch.php?id=486",
+            "https://dlhd.link/watch.php?id=913"
           ]
         },
         {
           "fuente": "sportyhunter.com",
           "pagina": "https://sportyhunter.com/sport/football",
           "enlaces": [
-            "https://sportyhunter.com/sport/football",
-            "https://sportyhunter.space/sitemap.xml",
-            "https://sportyhunter.com/sport/basketball",
+            "https://sportyhunter.com/sport/american-football",
             "https://sportyhunter.com/sport/baseball",
-            "https://sportyhunter.com/sport/mma"
+            "https://sportyhunter.com/sport/basketball",
+            "https://sportyhunter.com/sport/football",
+            "https://sportyhunter.com/"
           ]
         },
         {
           "fuente": "www.viprow.co",
           "pagina": "https://www.viprow.co/",
           "enlaces": [
+            "https://www.viprow.co/",
             "https://www.viprow.co/sports-wwe-online",
-            "https://www.viprow.co/sports-ufc-online",
-            "https://www.viprow.co/sports-football-online",
-            "https://www.viprow.co/sports-nascar-online",
+            "https://www.viprow.co/sports-darts-online",
+            "https://www.viprow.co/sports-moto-gp-online",
             "https://www.viprow.co/sports-others-online"
           ]
         }
       ],
-      "ultima_actualizacion": "2026-04-19T07:04:49.246617"
+      "ultima_actualizacion": "2026-04-20T07:46:38.122757"
     },
     {
       "liga": "LaLiga",
@@ -162,7 +108,7 @@
       "fecha": "2026-04-25T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-19T07:05:00.184220"
+      "ultima_actualizacion": "2026-04-20T07:46:49.631600"
     },
     {
       "liga": "LaLiga",
@@ -172,7 +118,7 @@
       "fecha": "2026-04-25T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-19T07:05:10.626866"
+      "ultima_actualizacion": "2026-04-20T07:47:00.488647"
     },
     {
       "liga": "LaLiga",
@@ -182,7 +128,7 @@
       "fecha": "2026-04-25T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-19T07:05:21.506359"
+      "ultima_actualizacion": "2026-04-20T07:47:16.135141"
     },
     {
       "liga": "LaLiga",
@@ -192,7 +138,7 @@
       "fecha": "2026-04-25T11:30:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-19T07:05:31.355452"
+      "ultima_actualizacion": "2026-04-20T07:47:27.618871"
     },
     {
       "liga": "LaLiga",
@@ -202,7 +148,7 @@
       "fecha": "2026-04-25T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-19T07:05:41.708449"
+      "ultima_actualizacion": "2026-04-20T07:47:39.453145"
     },
     {
       "liga": "LaLiga",
@@ -212,7 +158,7 @@
       "fecha": "2026-04-25T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-19T07:05:52.337385"
+      "ultima_actualizacion": "2026-04-20T07:47:54.932705"
     },
     {
       "liga": "LaLiga",
@@ -222,7 +168,61 @@
       "fecha": "2026-04-25T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-19T07:06:03.017918"
+      "ultima_actualizacion": "2026-04-20T07:48:05.465667"
+    },
+    {
+      "liga": "LaLiga",
+      "partido": "Plymouth Argyle vs Port Vale",
+      "home": "Plymouth Argyle",
+      "away": "Port Vale",
+      "fecha": "2026-04-25T14:00:00",
+      "estado": "NS",
+      "streams": [
+        {
+          "fuente": "dlhd.link",
+          "pagina": "https://dlhd.link/index.php?cat=Soccer",
+          "enlaces": [
+            "https://dlhd.link/watch.php?id=61",
+            "https://dlhd.link/watch.php?id=92",
+            "https://dlhd.link/watch.php?id=431",
+            "https://dlhd.link/watch.php?id=486",
+            "https://dlhd.link/watch.php?id=913"
+          ]
+        },
+        {
+          "fuente": "sportyhunter.com",
+          "pagina": "https://sportyhunter.com/sport/football",
+          "enlaces": [
+            "https://sportyhunter.com/sport/american-football",
+            "https://sportyhunter.com/sport/baseball",
+            "https://sportyhunter.com/sport/basketball",
+            "https://sportyhunter.com/sport/football",
+            "https://sportyhunter.com/"
+          ]
+        },
+        {
+          "fuente": "www.viprow.co",
+          "pagina": "https://www.viprow.co/",
+          "enlaces": [
+            "https://www.viprow.co/",
+            "https://www.viprow.co/sports-wwe-online",
+            "https://www.viprow.co/sports-darts-online",
+            "https://www.viprow.co/sports-moto-gp-online",
+            "https://www.viprow.co/sports-others-online"
+          ]
+        }
+      ],
+      "ultima_actualizacion": "2026-04-20T07:48:15.767223"
+    },
+    {
+      "liga": "LaLiga",
+      "partido": "Rotherham United vs Reading",
+      "home": "Rotherham United",
+      "away": "Reading",
+      "fecha": "2026-04-25T14:00:00",
+      "estado": "NS",
+      "streams": [],
+      "ultima_actualizacion": "2026-04-20T07:48:26.504943"
     }
   ]
 }
