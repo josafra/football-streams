@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-04-20T07:48:26.504976",
+  "ultima_actualizacion": "2026-04-21T07:20:23.506203",
   "ligas_activas": [
     "LaLiga",
     "Segunda Division"
@@ -14,7 +14,7 @@
       "fecha": "2026-04-21T18:45:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-20T07:45:35.668920"
+      "ultima_actualizacion": "2026-04-21T07:17:42.710389"
     },
     {
       "liga": "LaLiga",
@@ -24,7 +24,7 @@
       "fecha": "2026-04-21T18:45:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-20T07:45:47.599104"
+      "ultima_actualizacion": "2026-04-21T07:17:54.371108"
     },
     {
       "liga": "LaLiga",
@@ -34,7 +34,7 @@
       "fecha": "2026-04-21T18:45:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-20T07:45:58.978005"
+      "ultima_actualizacion": "2026-04-21T07:18:05.739764"
     },
     {
       "liga": "LaLiga",
@@ -44,7 +44,7 @@
       "fecha": "2026-04-21T18:45:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-20T07:46:14.790142"
+      "ultima_actualizacion": "2026-04-21T07:18:16.868631"
     },
     {
       "liga": "LaLiga",
@@ -54,7 +54,7 @@
       "fecha": "2026-04-21T18:45:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-20T07:46:26.015290"
+      "ultima_actualizacion": "2026-04-21T07:18:27.565847"
     },
     {
       "liga": "LaLiga",
@@ -68,37 +68,37 @@
           "fuente": "dlhd.link",
           "pagina": "https://dlhd.link/index.php?cat=Soccer",
           "enlaces": [
-            "https://dlhd.link/watch.php?id=61",
+            "https://dlhd.link/watch.php?id=116",
+            "https://dlhd.link/watch.php?id=78",
             "https://dlhd.link/watch.php?id=92",
-            "https://dlhd.link/watch.php?id=431",
-            "https://dlhd.link/watch.php?id=486",
-            "https://dlhd.link/watch.php?id=913"
+            "https://dlhd.link/watch.php?id=398",
+            "https://dlhd.link/watch.php?id=599"
           ]
         },
         {
           "fuente": "sportyhunter.com",
           "pagina": "https://sportyhunter.com/sport/football",
           "enlaces": [
-            "https://sportyhunter.com/sport/american-football",
+            "https://sportyhunter.space/sitemap.xml",
+            "https://sportyhunter.com/",
             "https://sportyhunter.com/sport/baseball",
             "https://sportyhunter.com/sport/basketball",
-            "https://sportyhunter.com/sport/football",
-            "https://sportyhunter.com/"
+            "https://sportyhunter.com/sport/mma"
           ]
         },
         {
           "fuente": "www.viprow.co",
           "pagina": "https://www.viprow.co/",
           "enlaces": [
-            "https://www.viprow.co/",
-            "https://www.viprow.co/sports-wwe-online",
-            "https://www.viprow.co/sports-darts-online",
+            "https://www.viprow.co/sports-american-football-online",
+            "https://www.viprow.co/sports-snooker-online",
+            "https://www.viprow.co/sports-tennis-online",
             "https://www.viprow.co/sports-moto-gp-online",
-            "https://www.viprow.co/sports-others-online"
+            "https://www.viprow.co/sports-rugby-online"
           ]
         }
       ],
-      "ultima_actualizacion": "2026-04-20T07:46:38.122757"
+      "ultima_actualizacion": "2026-04-21T07:18:38.451296"
     },
     {
       "liga": "LaLiga",
@@ -108,7 +108,7 @@
       "fecha": "2026-04-25T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-20T07:46:49.631600"
+      "ultima_actualizacion": "2026-04-21T07:18:50.590742"
     },
     {
       "liga": "LaLiga",
@@ -118,7 +118,7 @@
       "fecha": "2026-04-25T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-20T07:47:00.488647"
+      "ultima_actualizacion": "2026-04-21T07:19:01.191157"
     },
     {
       "liga": "LaLiga",
@@ -128,7 +128,7 @@
       "fecha": "2026-04-25T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-20T07:47:16.135141"
+      "ultima_actualizacion": "2026-04-21T07:19:12.670230"
     },
     {
       "liga": "LaLiga",
@@ -138,7 +138,7 @@
       "fecha": "2026-04-25T11:30:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-20T07:47:27.618871"
+      "ultima_actualizacion": "2026-04-21T07:19:28.080933"
     },
     {
       "liga": "LaLiga",
@@ -148,7 +148,7 @@
       "fecha": "2026-04-25T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-20T07:47:39.453145"
+      "ultima_actualizacion": "2026-04-21T07:19:39.113153"
     },
     {
       "liga": "LaLiga",
@@ -158,7 +158,7 @@
       "fecha": "2026-04-25T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-20T07:47:54.932705"
+      "ultima_actualizacion": "2026-04-21T07:19:50.502863"
     },
     {
       "liga": "LaLiga",
@@ -168,7 +168,7 @@
       "fecha": "2026-04-25T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-20T07:48:05.465667"
+      "ultima_actualizacion": "2026-04-21T07:20:01.794482"
     },
     {
       "liga": "LaLiga",
@@ -182,37 +182,37 @@
           "fuente": "dlhd.link",
           "pagina": "https://dlhd.link/index.php?cat=Soccer",
           "enlaces": [
-            "https://dlhd.link/watch.php?id=61",
+            "https://dlhd.link/watch.php?id=116",
+            "https://dlhd.link/watch.php?id=78",
             "https://dlhd.link/watch.php?id=92",
-            "https://dlhd.link/watch.php?id=431",
-            "https://dlhd.link/watch.php?id=486",
-            "https://dlhd.link/watch.php?id=913"
+            "https://dlhd.link/watch.php?id=398",
+            "https://dlhd.link/watch.php?id=599"
           ]
         },
         {
           "fuente": "sportyhunter.com",
           "pagina": "https://sportyhunter.com/sport/football",
           "enlaces": [
-            "https://sportyhunter.com/sport/american-football",
+            "https://sportyhunter.space/sitemap.xml",
+            "https://sportyhunter.com/",
             "https://sportyhunter.com/sport/baseball",
             "https://sportyhunter.com/sport/basketball",
-            "https://sportyhunter.com/sport/football",
-            "https://sportyhunter.com/"
+            "https://sportyhunter.com/sport/mma"
           ]
         },
         {
           "fuente": "www.viprow.co",
           "pagina": "https://www.viprow.co/",
           "enlaces": [
-            "https://www.viprow.co/",
-            "https://www.viprow.co/sports-wwe-online",
-            "https://www.viprow.co/sports-darts-online",
+            "https://www.viprow.co/sports-american-football-online",
+            "https://www.viprow.co/sports-snooker-online",
+            "https://www.viprow.co/sports-tennis-online",
             "https://www.viprow.co/sports-moto-gp-online",
-            "https://www.viprow.co/sports-others-online"
+            "https://www.viprow.co/sports-rugby-online"
           ]
         }
       ],
-      "ultima_actualizacion": "2026-04-20T07:48:15.767223"
+      "ultima_actualizacion": "2026-04-21T07:20:12.942032"
     },
     {
       "liga": "LaLiga",
@@ -222,7 +222,7 @@
       "fecha": "2026-04-25T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-20T07:48:26.504943"
+      "ultima_actualizacion": "2026-04-21T07:20:23.506180"
     }
   ]
 }
