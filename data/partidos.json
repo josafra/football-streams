@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-04-27T08:02:09.353826",
+  "ultima_actualizacion": "2026-04-28T08:02:50.137419",
   "ligas_activas": [
     "LaLiga",
     "Segunda Division"
@@ -14,7 +14,7 @@
       "fecha": "2026-04-28T18:45:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-27T07:59:26.138784"
+      "ultima_actualizacion": "2026-04-28T07:59:18.042677"
     },
     {
       "liga": "LaLiga",
@@ -24,7 +24,7 @@
       "fecha": "2026-04-28T18:45:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-27T07:59:37.627910"
+      "ultima_actualizacion": "2026-04-28T07:59:30.686027"
     },
     {
       "liga": "LaLiga",
@@ -35,24 +35,13 @@
       "estado": "NS",
       "streams": [
         {
-          "fuente": "dlhd.link",
-          "pagina": "https://dlhd.link/index.php?cat=Soccer",
-          "enlaces": [
-            "https://dlhd.link/watch.php?id=388",
-            "https://dlhd.link/watch.php?id=637",
-            "https://dlhd.link/watch.php?id=4",
-            "https://dlhd.link/watch.php?id=18",
-            "https://dlhd.link/watch.php?id=449"
-          ]
-        },
-        {
           "fuente": "sportyhunter.com",
           "pagina": "https://sportyhunter.com/sport/football",
           "enlaces": [
             "https://sportyhunter.com/sport/baseball",
+            "https://sportyhunter.com/sport/american-football",
+            "https://sportyhunter.com/",
             "https://sportyhunter.com/sport/football",
-            "https://sportyhunter.com/sport/mma",
-            "https://sportyhunter.net/sitemap.xml",
             "https://sportyhunter.com/sport/ice-hockey"
           ]
         },
@@ -60,15 +49,15 @@
           "fuente": "www.viprow.co",
           "pagina": "https://www.viprow.co/",
           "enlaces": [
-            "https://www.viprow.co/sports-boxing-online",
-            "https://www.viprow.co/sports-snooker-online",
-            "https://www.viprow.co/sports-volleyball-online",
-            "https://www.viprow.co/sports-american-football-online",
-            "https://www.viprow.co/sports-motorsports-online"
+            "https://www.viprow.co/sports-ufc-online",
+            "https://www.viprow.co/sports-ice-hockey-online",
+            "https://www.viprow.co/sports-cycling-online",
+            "https://www.viprow.co/sports-golf-online",
+            "https://www.viprow.co/sports-wwe-online"
           ]
         }
       ],
-      "ultima_actualizacion": "2026-04-27T07:59:51.546881"
+      "ultima_actualizacion": "2026-04-28T07:59:44.133126"
     },
     {
       "liga": "LaLiga",
@@ -78,7 +67,7 @@
       "fecha": "2026-05-02T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-27T08:00:02.725684"
+      "ultima_actualizacion": "2026-04-28T07:59:57.883164"
     },
     {
       "liga": "LaLiga",
@@ -88,7 +77,7 @@
       "fecha": "2026-05-02T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-27T08:00:15.386524"
+      "ultima_actualizacion": "2026-04-28T08:00:12.268704"
     },
     {
       "liga": "LaLiga",
@@ -98,7 +87,7 @@
       "fecha": "2026-05-02T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-27T08:00:26.277137"
+      "ultima_actualizacion": "2026-04-28T08:00:36.179671"
     },
     {
       "liga": "LaLiga",
@@ -108,7 +97,7 @@
       "fecha": "2026-05-02T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-27T08:00:42.557384"
+      "ultima_actualizacion": "2026-04-28T08:01:04.006554"
     },
     {
       "liga": "LaLiga",
@@ -118,7 +107,7 @@
       "fecha": "2026-05-02T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-27T08:00:53.524738"
+      "ultima_actualizacion": "2026-04-28T08:01:22.057180"
     },
     {
       "liga": "LaLiga",
@@ -128,7 +117,7 @@
       "fecha": "2026-05-02T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-27T08:01:04.502750"
+      "ultima_actualizacion": "2026-04-28T08:01:35.959343"
     },
     {
       "liga": "LaLiga",
@@ -138,7 +127,7 @@
       "fecha": "2026-05-02T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-27T08:01:14.639078"
+      "ultima_actualizacion": "2026-04-28T08:01:49.129869"
     },
     {
       "liga": "LaLiga",
@@ -152,11 +141,11 @@
           "fuente": "dlhd.link",
           "pagina": "https://dlhd.link/index.php?cat=Soccer",
           "enlaces": [
-            "https://dlhd.link/watch.php?id=388",
-            "https://dlhd.link/watch.php?id=637",
-            "https://dlhd.link/watch.php?id=4",
-            "https://dlhd.link/watch.php?id=18",
-            "https://dlhd.link/watch.php?id=449"
+            "https://dlhd.link/watch.php?id=540",
+            "https://dlhd.link/watch.php?id=35",
+            "https://dlhd.link/watch.php?id=68",
+            "https://dlhd.link/watch.php?id=38",
+            "https://dlhd.link/watch.php?id=628"
           ]
         },
         {
@@ -164,9 +153,9 @@
           "pagina": "https://sportyhunter.com/sport/football",
           "enlaces": [
             "https://sportyhunter.com/sport/baseball",
+            "https://sportyhunter.com/sport/american-football",
+            "https://sportyhunter.com/",
             "https://sportyhunter.com/sport/football",
-            "https://sportyhunter.com/sport/mma",
-            "https://sportyhunter.net/sitemap.xml",
             "https://sportyhunter.com/sport/ice-hockey"
           ]
         },
@@ -174,15 +163,15 @@
           "fuente": "www.viprow.co",
           "pagina": "https://www.viprow.co/",
           "enlaces": [
-            "https://www.viprow.co/sports-boxing-online",
-            "https://www.viprow.co/sports-snooker-online",
-            "https://www.viprow.co/sports-volleyball-online",
-            "https://www.viprow.co/sports-american-football-online",
-            "https://www.viprow.co/sports-motorsports-online"
+            "https://www.viprow.co/sports-ufc-online",
+            "https://www.viprow.co/sports-ice-hockey-online",
+            "https://www.viprow.co/sports-cycling-online",
+            "https://www.viprow.co/sports-golf-online",
+            "https://www.viprow.co/sports-wwe-online"
           ]
         }
       ],
-      "ultima_actualizacion": "2026-04-27T08:01:25.708524"
+      "ultima_actualizacion": "2026-04-28T08:02:01.447174"
     },
     {
       "liga": "LaLiga",
@@ -192,7 +181,7 @@
       "fecha": "2026-05-02T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-27T08:01:36.625011"
+      "ultima_actualizacion": "2026-04-28T08:02:13.550401"
     },
     {
       "liga": "LaLiga",
@@ -202,7 +191,7 @@
       "fecha": "2026-05-02T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-27T08:01:47.524201"
+      "ultima_actualizacion": "2026-04-28T08:02:25.730385"
     },
     {
       "liga": "LaLiga",
@@ -212,7 +201,7 @@
       "fecha": "2026-05-02T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-27T08:01:58.661305"
+      "ultima_actualizacion": "2026-04-28T08:02:37.885995"
     },
     {
       "liga": "LaLiga",
@@ -222,7 +211,7 @@
       "fecha": "2026-05-02T14:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-27T08:02:09.353807"
+      "ultima_actualizacion": "2026-04-28T08:02:50.137399"
     }
   ]
 }
