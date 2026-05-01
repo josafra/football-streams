@@ -1,164 +1,20 @@
 {
-  "ultima_actualizacion": "2026-04-30T07:58:47.286174",
+  "ultima_actualizacion": "2026-05-01T07:55:34.417333",
   "ligas_activas": [
     "LaLiga",
     "Segunda Division"
   ],
-  "total_partidos": 12,
+  "total_partidos": 1,
   "partidos": [
     {
       "liga": "LaLiga",
-      "partido": "AFC Wimbledon vs Huddersfield Town",
-      "home": "AFC Wimbledon",
-      "away": "Huddersfield Town",
-      "fecha": "2026-05-02T14:00:00",
+      "partido": "Girona vs Mallorca",
+      "home": "Girona",
+      "away": "Mallorca",
+      "fecha": "2026-05-01T19:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-04-30T07:56:28.556382"
-    },
-    {
-      "liga": "LaLiga",
-      "partido": "Barnsley vs Stockport County",
-      "home": "Barnsley",
-      "away": "Stockport County",
-      "fecha": "2026-05-02T14:00:00",
-      "estado": "NS",
-      "streams": [],
-      "ultima_actualizacion": "2026-04-30T07:56:42.206542"
-    },
-    {
-      "liga": "LaLiga",
-      "partido": "Bolton Wanderers vs Luton Town",
-      "home": "Bolton Wanderers",
-      "away": "Luton Town",
-      "fecha": "2026-05-02T14:00:00",
-      "estado": "NS",
-      "streams": [],
-      "ultima_actualizacion": "2026-04-30T07:56:54.156363"
-    },
-    {
-      "liga": "LaLiga",
-      "partido": "Exeter City vs Bradford City",
-      "home": "Exeter City",
-      "away": "Bradford City",
-      "fecha": "2026-05-02T14:00:00",
-      "estado": "NS",
-      "streams": [],
-      "ultima_actualizacion": "2026-04-30T07:57:06.271659"
-    },
-    {
-      "liga": "LaLiga",
-      "partido": "Leyton Orient vs Burton Albion",
-      "home": "Leyton Orient",
-      "away": "Burton Albion",
-      "fecha": "2026-05-02T14:00:00",
-      "estado": "NS",
-      "streams": [],
-      "ultima_actualizacion": "2026-04-30T07:57:18.604581"
-    },
-    {
-      "liga": "LaLiga",
-      "partido": "Northampton Town vs Plymouth Argyle",
-      "home": "Northampton Town",
-      "away": "Plymouth Argyle",
-      "fecha": "2026-05-02T14:00:00",
-      "estado": "NS",
-      "streams": [],
-      "ultima_actualizacion": "2026-04-30T07:57:36.230493"
-    },
-    {
-      "liga": "LaLiga",
-      "partido": "Peterborough United vs Doncaster Rovers",
-      "home": "Peterborough United",
-      "away": "Doncaster Rovers",
-      "fecha": "2026-05-02T14:00:00",
-      "estado": "NS",
-      "streams": [],
-      "ultima_actualizacion": "2026-04-30T07:57:49.882511"
-    },
-    {
-      "liga": "LaLiga",
-      "partido": "Port Vale vs Lincoln City",
-      "home": "Port Vale",
-      "away": "Lincoln City",
-      "fecha": "2026-05-02T14:00:00",
-      "estado": "NS",
-      "streams": [
-        {
-          "fuente": "dlhd.link",
-          "pagina": "https://dlhd.link/index.php?cat=Soccer",
-          "enlaces": [
-            "https://dlhd.link/watch.php?id=584",
-            "https://dlhd.link/watch.php?id=400",
-            "https://dlhd.link/watch.php?id=101",
-            "https://dlhd.link/watch.php?id=15",
-            "https://dlhd.link/watch.php?id=383"
-          ]
-        },
-        {
-          "fuente": "sportyhunter.com",
-          "pagina": "https://sportyhunter.com/sport/football",
-          "enlaces": [
-            "https://sportyhunter.com/sport/baseball",
-            "https://sportyhunter.net/sitemap.xml",
-            "https://sportyhunter.com/sport/football",
-            "https://sportyhunter.com/sport/basketball",
-            "https://sportyhunter.com/sport/ice-hockey"
-          ]
-        },
-        {
-          "fuente": "www.viprow.co",
-          "pagina": "https://www.viprow.co/",
-          "enlaces": [
-            "https://www.viprow.co/sports-nascar-online",
-            "https://www.viprow.co/sports-rugby-online",
-            "https://www.viprow.co/sports-american-football-online",
-            "https://www.viprow.co/sports-cycling-online",
-            "https://www.viprow.co/sports-volleyball-online"
-          ]
-        }
-      ],
-      "ultima_actualizacion": "2026-04-30T07:58:01.306366"
-    },
-    {
-      "liga": "LaLiga",
-      "partido": "Reading vs Blackpool",
-      "home": "Reading",
-      "away": "Blackpool",
-      "fecha": "2026-05-02T14:00:00",
-      "estado": "NS",
-      "streams": [],
-      "ultima_actualizacion": "2026-04-30T07:58:12.731112"
-    },
-    {
-      "liga": "LaLiga",
-      "partido": "Stevenage vs Wigan Athletic",
-      "home": "Stevenage",
-      "away": "Wigan Athletic",
-      "fecha": "2026-05-02T14:00:00",
-      "estado": "NS",
-      "streams": [],
-      "ultima_actualizacion": "2026-04-30T07:58:24.368702"
-    },
-    {
-      "liga": "LaLiga",
-      "partido": "Wycombe Wanderers vs Rotherham United",
-      "home": "Wycombe Wanderers",
-      "away": "Rotherham United",
-      "fecha": "2026-05-02T14:00:00",
-      "estado": "NS",
-      "streams": [],
-      "ultima_actualizacion": "2026-04-30T07:58:35.857773"
-    },
-    {
-      "liga": "LaLiga",
-      "partido": "Mansfield Town vs Cardiff City",
-      "home": "Mansfield Town",
-      "away": "Cardiff City",
-      "fecha": "2026-05-02T14:00:00",
-      "estado": "NS",
-      "streams": [],
-      "ultima_actualizacion": "2026-04-30T07:58:47.286149"
+      "ultima_actualizacion": "2026-05-01T07:55:34.417322"
     }
   ]
 }
