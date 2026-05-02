@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-05-01T07:55:34.417333",
+  "ultima_actualizacion": "2026-05-02T07:15:30.438879",
   "ligas_activas": [
     "LaLiga",
     "Segunda Division"
@@ -8,13 +8,21 @@
   "partidos": [
     {
       "liga": "LaLiga",
-      "partido": "Girona vs Mallorca",
-      "home": "Girona",
-      "away": "Mallorca",
-      "fecha": "2026-05-01T19:00:00",
+      "partido": "Deportivo Alavés vs Athletic Bilbao",
+      "home": "Deportivo Alavés",
+      "away": "Athletic Bilbao",
+      "fecha": "2026-05-02T16:30:00",
       "estado": "NS",
-      "streams": [],
-      "ultima_actualizacion": "2026-05-01T07:55:34.417322"
+      "streams": [
+        {
+          "fuente": "dlhd.link",
+          "pagina": "https://dlhd.link/index.php?cat=Soccer",
+          "enlaces": [
+            "https://dlhd.link/index.php?cat=Athletics"
+          ]
+        }
+      ],
+      "ultima_actualizacion": "2026-05-02T07:15:30.438858"
     }
   ]
 }
