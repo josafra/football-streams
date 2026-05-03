@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-05-02T07:15:30.438879",
+  "ultima_actualizacion": "2026-05-03T07:42:22.481889",
   "ligas_activas": [
     "LaLiga",
     "Segunda Division"
@@ -8,21 +8,13 @@
   "partidos": [
     {
       "liga": "LaLiga",
-      "partido": "Deportivo Alavés vs Athletic Bilbao",
-      "home": "Deportivo Alavés",
-      "away": "Athletic Bilbao",
-      "fecha": "2026-05-02T16:30:00",
+      "partido": "Real Betis vs Real Oviedo",
+      "home": "Real Betis",
+      "away": "Real Oviedo",
+      "fecha": "2026-05-03T16:30:00",
       "estado": "NS",
-      "streams": [
-        {
-          "fuente": "dlhd.link",
-          "pagina": "https://dlhd.link/index.php?cat=Soccer",
-          "enlaces": [
-            "https://dlhd.link/index.php?cat=Athletics"
-          ]
-        }
-      ],
-      "ultima_actualizacion": "2026-05-02T07:15:30.438858"
+      "streams": [],
+      "ultima_actualizacion": "2026-05-03T07:42:22.481867"
     }
   ]
 }
