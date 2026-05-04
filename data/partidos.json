@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-05-03T07:42:22.481889",
+  "ultima_actualizacion": "2026-05-04T08:10:21.152730",
   "ligas_activas": [
     "LaLiga",
     "Segunda Division"
@@ -8,13 +8,13 @@
   "partidos": [
     {
       "liga": "LaLiga",
-      "partido": "Real Betis vs Real Oviedo",
-      "home": "Real Betis",
-      "away": "Real Oviedo",
-      "fecha": "2026-05-03T16:30:00",
+      "partido": "Sevilla vs Real Sociedad",
+      "home": "Sevilla",
+      "away": "Real Sociedad",
+      "fecha": "2026-05-04T19:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-05-03T07:42:22.481867"
+      "ultima_actualizacion": "2026-05-04T08:10:21.152711"
     }
   ]
 }
