@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-05-11T08:51:23.603776",
+  "ultima_actualizacion": "2026-05-12T08:15:58.814944",
   "ligas_activas": [
     "LaLiga",
     "Segunda Division"
@@ -8,13 +8,13 @@
   "partidos": [
     {
       "liga": "LaLiga",
-      "partido": "Rayo Vallecano vs Girona",
-      "home": "Rayo Vallecano",
-      "away": "Girona",
-      "fecha": "2026-05-11T19:00:00",
+      "partido": "Real Betis vs Elche",
+      "home": "Real Betis",
+      "away": "Elche",
+      "fecha": "2026-05-12T18:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-05-11T08:51:23.603757"
+      "ultima_actualizacion": "2026-05-12T08:15:58.814926"
     }
   ]
 }
