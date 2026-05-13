@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-05-12T08:15:58.814944",
+  "ultima_actualizacion": "2026-05-13T08:28:15.090394",
   "ligas_activas": [
     "LaLiga",
     "Segunda Division"
@@ -8,13 +8,13 @@
   "partidos": [
     {
       "liga": "LaLiga",
-      "partido": "Real Betis vs Elche",
-      "home": "Real Betis",
-      "away": "Elche",
-      "fecha": "2026-05-12T18:00:00",
+      "partido": "Deportivo Alavés vs Barcelona",
+      "home": "Deportivo Alavés",
+      "away": "Barcelona",
+      "fecha": "2026-05-13T19:30:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-05-12T08:15:58.814926"
+      "ultima_actualizacion": "2026-05-13T08:28:15.090375"
     }
   ]
 }
