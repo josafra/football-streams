@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-05-13T08:28:15.090394",
+  "ultima_actualizacion": "2026-05-14T08:21:27.873797",
   "ligas_activas": [
     "LaLiga",
     "Segunda Division"
@@ -8,13 +8,13 @@
   "partidos": [
     {
       "liga": "LaLiga",
-      "partido": "Deportivo Alavés vs Barcelona",
-      "home": "Deportivo Alavés",
-      "away": "Barcelona",
-      "fecha": "2026-05-13T19:30:00",
+      "partido": "Girona vs Real Sociedad",
+      "home": "Girona",
+      "away": "Real Sociedad",
+      "fecha": "2026-05-14T18:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-05-13T08:28:15.090375"
+      "ultima_actualizacion": "2026-05-14T08:21:27.873777"
     }
   ]
 }
