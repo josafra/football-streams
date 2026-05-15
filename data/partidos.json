@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-05-14T08:21:27.873797",
+  "ultima_actualizacion": "2026-05-15T08:33:31.026690",
   "ligas_activas": [
     "LaLiga",
     "Segunda Division"
@@ -8,13 +8,13 @@
   "partidos": [
     {
       "liga": "LaLiga",
-      "partido": "Girona vs Real Sociedad",
-      "home": "Girona",
-      "away": "Real Sociedad",
-      "fecha": "2026-05-14T18:00:00",
+      "partido": "Athletic Bilbao vs Celta Vigo",
+      "home": "Athletic Bilbao",
+      "away": "Celta Vigo",
+      "fecha": "2026-05-17T17:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-05-14T08:21:27.873777"
+      "ultima_actualizacion": "2026-05-15T08:33:31.026669"
     }
   ]
 }
