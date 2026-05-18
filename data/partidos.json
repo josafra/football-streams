@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-05-17T08:04:08.544915",
+  "ultima_actualizacion": "2026-05-18T09:32:48.230133",
   "ligas_activas": [
     "LaLiga",
     "Segunda Division"
@@ -8,13 +8,13 @@
   "partidos": [
     {
       "liga": "LaLiga",
-      "partido": "Athletic Bilbao vs Celta Vigo",
-      "home": "Athletic Bilbao",
-      "away": "Celta Vigo",
-      "fecha": "2026-05-17T17:00:00",
+      "partido": "Deportivo Alavés vs Rayo Vallecano",
+      "home": "Deportivo Alavés",
+      "away": "Rayo Vallecano",
+      "fecha": "2026-05-23T19:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-05-17T08:04:08.544898"
+      "ultima_actualizacion": "2026-05-18T09:32:48.230113"
     }
   ]
 }
