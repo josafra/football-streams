@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-05-23T08:00:07.072888",
+  "ultima_actualizacion": "2026-05-24T08:11:30.257745",
   "ligas_activas": [
     "LaLiga",
     "Segunda Division"
@@ -8,13 +8,13 @@
   "partidos": [
     {
       "liga": "LaLiga",
-      "partido": "Deportivo Alavés vs Rayo Vallecano",
-      "home": "Deportivo Alavés",
-      "away": "Rayo Vallecano",
-      "fecha": "2026-05-23T19:00:00",
+      "partido": "Villarreal vs Atlético Madrid",
+      "home": "Villarreal",
+      "away": "Atlético Madrid",
+      "fecha": "2026-05-24T19:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-05-23T08:00:07.072865"
+      "ultima_actualizacion": "2026-05-24T08:11:30.257726"
     }
   ]
 }
