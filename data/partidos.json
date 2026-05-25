@@ -1,20 +1,9 @@
 {
-  "ultima_actualizacion": "2026-05-24T08:11:30.257745",
+  "ultima_actualizacion": "2026-05-25T09:41:24.552826",
   "ligas_activas": [
     "LaLiga",
     "Segunda Division"
   ],
-  "total_partidos": 1,
-  "partidos": [
-    {
-      "liga": "LaLiga",
-      "partido": "Villarreal vs Atlético Madrid",
-      "home": "Villarreal",
-      "away": "Atlético Madrid",
-      "fecha": "2026-05-24T19:00:00",
-      "estado": "NS",
-      "streams": [],
-      "ultima_actualizacion": "2026-05-24T08:11:30.257726"
-    }
-  ]
+  "total_partidos": 0,
+  "partidos": []
 }
