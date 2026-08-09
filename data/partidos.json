@@ -1,9 +1,20 @@
 {
-  "ultima_actualizacion": "2026-08-08T06:27:30.650862",
+  "ultima_actualizacion": "2026-08-09T06:32:46.703161",
   "ligas_activas": [
     "LaLiga",
     "Segunda Division"
   ],
-  "total_partidos": 0,
-  "partidos": []
+  "total_partidos": 1,
+  "partidos": [
+    {
+      "liga": "LaLiga",
+      "partido": "Deportivo Alavés vs Getafe",
+      "home": "Deportivo Alavés",
+      "away": "Getafe",
+      "fecha": "2026-08-15T17:30:00",
+      "estado": "NS",
+      "streams": [],
+      "ultima_actualizacion": "2026-08-09T06:32:46.703141"
+    }
+  ]
 }
