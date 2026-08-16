@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-08-15T06:15:06.820800",
+  "ultima_actualizacion": "2026-08-16T06:16:37.290390",
   "ligas_activas": [
     "LaLiga",
     "Segunda Division"
@@ -8,13 +8,13 @@
   "partidos": [
     {
       "liga": "LaLiga",
-      "partido": "Deportivo Alavés vs Getafe",
-      "home": "Deportivo Alavés",
-      "away": "Getafe",
-      "fecha": "2026-08-15T17:30:00",
+      "partido": "Racing de Santander vs Villarreal",
+      "home": "Racing de Santander",
+      "away": "Villarreal",
+      "fecha": "2026-08-16T15:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-08-15T06:15:06.820777"
+      "ultima_actualizacion": "2026-08-16T06:16:37.290369"
     }
   ]
 }
