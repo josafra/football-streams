@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-08-17T06:25:08.573504",
+  "ultima_actualizacion": "2026-08-18T06:18:48.315598",
   "ligas_activas": [
     "LaLiga",
     "Segunda Division"
@@ -8,13 +8,13 @@
   "partidos": [
     {
       "liga": "LaLiga",
-      "partido": "Deportivo de A Coruña vs Elche",
-      "home": "Deportivo de A Coruña",
-      "away": "Elche",
-      "fecha": "2026-08-17T19:00:00",
+      "partido": "Atlético Madrid vs Málaga",
+      "home": "Atlético Madrid",
+      "away": "Málaga",
+      "fecha": "2026-08-19T19:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-08-17T06:25:08.573481"
+      "ultima_actualizacion": "2026-08-18T06:18:48.315578"
     }
   ]
 }
