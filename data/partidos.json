@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-08-20T06:20:49.739748",
+  "ultima_actualizacion": "2026-08-21T06:20:53.999674",
   "ligas_activas": [
     "LaLiga",
     "Segunda Division"
@@ -8,13 +8,13 @@
   "partidos": [
     {
       "liga": "LaLiga",
-      "partido": "Rayo Vallecano vs Deportivo Alavés",
-      "home": "Rayo Vallecano",
-      "away": "Deportivo Alavés",
-      "fecha": "2026-08-20T19:00:00",
+      "partido": "Real Betis vs Real Sociedad",
+      "home": "Real Betis",
+      "away": "Real Sociedad",
+      "fecha": "2026-08-21T19:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-08-20T06:20:49.739729"
+      "ultima_actualizacion": "2026-08-21T06:20:53.999654"
     }
   ]
 }
