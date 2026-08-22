@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-08-21T06:20:53.999674",
+  "ultima_actualizacion": "2026-08-22T06:16:07.707877",
   "ligas_activas": [
     "LaLiga",
     "Segunda Division"
@@ -8,13 +8,13 @@
   "partidos": [
     {
       "liga": "LaLiga",
-      "partido": "Real Betis vs Real Sociedad",
-      "home": "Real Betis",
-      "away": "Real Sociedad",
-      "fecha": "2026-08-21T19:00:00",
+      "partido": "Athletic Bilbao vs Sevilla",
+      "home": "Athletic Bilbao",
+      "away": "Sevilla",
+      "fecha": "2026-08-22T15:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-08-21T06:20:53.999654"
+      "ultima_actualizacion": "2026-08-22T06:16:07.707855"
     }
   ]
 }
