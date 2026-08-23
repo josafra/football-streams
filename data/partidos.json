@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-08-22T06:16:07.707877",
+  "ultima_actualizacion": "2026-08-23T06:17:49.961387",
   "ligas_activas": [
     "LaLiga",
     "Segunda Division"
@@ -8,13 +8,13 @@
   "partidos": [
     {
       "liga": "LaLiga",
-      "partido": "Athletic Bilbao vs Sevilla",
-      "home": "Athletic Bilbao",
-      "away": "Sevilla",
-      "fecha": "2026-08-22T15:00:00",
+      "partido": "Atlético Madrid vs Villarreal",
+      "home": "Atlético Madrid",
+      "away": "Villarreal",
+      "fecha": "2026-08-23T15:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-08-22T06:16:07.707855"
+      "ultima_actualizacion": "2026-08-23T06:17:49.961363"
     }
   ]
 }
