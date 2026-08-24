@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-08-23T06:17:49.961387",
+  "ultima_actualizacion": "2026-08-24T06:29:12.263183",
   "ligas_activas": [
     "LaLiga",
     "Segunda Division"
@@ -8,13 +8,13 @@
   "partidos": [
     {
       "liga": "LaLiga",
-      "partido": "Atlético Madrid vs Villarreal",
-      "home": "Atlético Madrid",
-      "away": "Villarreal",
-      "fecha": "2026-08-23T15:00:00",
+      "partido": "Osasuna vs Levante",
+      "home": "Osasuna",
+      "away": "Levante",
+      "fecha": "2026-08-24T17:30:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-08-23T06:17:49.961363"
+      "ultima_actualizacion": "2026-08-24T06:29:12.263160"
     }
   ]
 }
