@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-08-26T06:23:02.721652",
+  "ultima_actualizacion": "2026-08-27T16:53:14.539159",
   "ligas_activas": [
     "LaLiga",
     "Segunda Division"
@@ -8,13 +8,13 @@
   "partidos": [
     {
       "liga": "LaLiga",
-      "partido": "Real Madrid vs Real Sociedad",
-      "home": "Real Madrid",
-      "away": "Real Sociedad",
-      "fecha": "2026-08-26T19:00:00",
+      "partido": "Celta Vigo vs Osasuna",
+      "home": "Celta Vigo",
+      "away": "Osasuna",
+      "fecha": "2026-08-27T18:30:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-08-26T06:23:02.721632"
+      "ultima_actualizacion": "2026-08-27T16:53:14.539141"
     }
   ]
 }
