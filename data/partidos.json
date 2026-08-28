@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-08-27T16:53:14.539159",
+  "ultima_actualizacion": "2026-08-28T17:44:48.824051",
   "ligas_activas": [
     "LaLiga",
     "Segunda Division"
@@ -8,13 +8,13 @@
   "partidos": [
     {
       "liga": "LaLiga",
-      "partido": "Celta Vigo vs Osasuna",
-      "home": "Celta Vigo",
-      "away": "Osasuna",
-      "fecha": "2026-08-27T18:30:00",
+      "partido": "Deportivo Alavés vs Villarreal",
+      "home": "Deportivo Alavés",
+      "away": "Villarreal",
+      "fecha": "2026-08-28T19:30:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-08-27T16:53:14.539141"
+      "ultima_actualizacion": "2026-08-28T17:44:48.824029"
     }
   ]
 }
