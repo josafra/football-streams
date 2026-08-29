@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-08-28T17:44:48.824051",
+  "ultima_actualizacion": "2026-08-29T11:49:11.688508",
   "ligas_activas": [
     "LaLiga",
     "Segunda Division"
@@ -8,13 +8,13 @@
   "partidos": [
     {
       "liga": "LaLiga",
-      "partido": "Deportivo Alavés vs Villarreal",
-      "home": "Deportivo Alavés",
-      "away": "Villarreal",
-      "fecha": "2026-08-28T19:30:00",
+      "partido": "Levante vs Real Betis",
+      "home": "Levante",
+      "away": "Real Betis",
+      "fecha": "2026-08-29T15:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-08-28T17:44:48.824029"
+      "ultima_actualizacion": "2026-08-29T11:49:11.688498"
     }
   ]
 }
