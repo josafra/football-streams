@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-08-29T11:49:11.688508",
+  "ultima_actualizacion": "2026-08-30T10:45:52.965887",
   "ligas_activas": [
     "LaLiga",
     "Segunda Division"
@@ -8,13 +8,13 @@
   "partidos": [
     {
       "liga": "LaLiga",
-      "partido": "Levante vs Real Betis",
-      "home": "Levante",
-      "away": "Real Betis",
-      "fecha": "2026-08-29T15:00:00",
+      "partido": "Real Madrid vs Málaga",
+      "home": "Real Madrid",
+      "away": "Málaga",
+      "fecha": "2026-08-30T15:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-08-29T11:49:11.688498"
+      "ultima_actualizacion": "2026-08-30T10:45:52.965865"
     }
   ]
 }
