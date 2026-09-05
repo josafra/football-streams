@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-09-04T10:00:47.716202",
+  "ultima_actualizacion": "2026-09-05T09:30:16.093296",
   "ligas_activas": [
     "LaLiga",
     "Segunda Division"
@@ -8,13 +8,13 @@
   "partidos": [
     {
       "liga": "LaLiga",
-      "partido": "Real Betis vs Real Madrid",
-      "home": "Real Betis",
-      "away": "Real Madrid",
-      "fecha": "2026-09-04T19:00:00",
+      "partido": "Athletic Bilbao vs Atlético Madrid",
+      "home": "Athletic Bilbao",
+      "away": "Atlético Madrid",
+      "fecha": "2026-09-05T14:15:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-09-04T10:00:47.716187"
+      "ultima_actualizacion": "2026-09-05T09:30:16.093276"
     }
   ]
 }
