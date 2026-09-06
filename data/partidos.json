@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-09-05T09:30:16.093296",
+  "ultima_actualizacion": "2026-09-06T09:44:10.327016",
   "ligas_activas": [
     "LaLiga",
     "Segunda Division"
@@ -8,13 +8,13 @@
   "partidos": [
     {
       "liga": "LaLiga",
-      "partido": "Athletic Bilbao vs Atlético Madrid",
-      "home": "Athletic Bilbao",
-      "away": "Atlético Madrid",
-      "fecha": "2026-09-05T14:15:00",
+      "partido": "Valencia vs Barcelona",
+      "home": "Valencia",
+      "away": "Barcelona",
+      "fecha": "2026-09-06T14:15:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-09-05T09:30:16.093276"
+      "ultima_actualizacion": "2026-09-06T09:44:10.326988"
     }
   ]
 }
