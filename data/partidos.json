@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-09-06T09:44:10.327016",
+  "ultima_actualizacion": "2026-09-07T10:48:07.411700",
   "ligas_activas": [
     "LaLiga",
     "Segunda Division"
@@ -8,13 +8,13 @@
   "partidos": [
     {
       "liga": "LaLiga",
-      "partido": "Valencia vs Barcelona",
-      "home": "Valencia",
-      "away": "Barcelona",
-      "fecha": "2026-09-06T14:15:00",
+      "partido": "Getafe vs Celta Vigo",
+      "home": "Getafe",
+      "away": "Celta Vigo",
+      "fecha": "2026-09-07T17:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-09-06T09:44:10.326988"
+      "ultima_actualizacion": "2026-09-07T10:48:07.411679"
     }
   ]
 }
