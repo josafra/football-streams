@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-09-11T10:03:12.099312",
+  "ultima_actualizacion": "2026-09-12T09:39:11.673839",
   "ligas_activas": [
     "LaLiga",
     "Segunda Division"
@@ -8,13 +8,13 @@
   "partidos": [
     {
       "liga": "LaLiga",
-      "partido": "Sevilla vs Valencia",
-      "home": "Sevilla",
-      "away": "Valencia",
-      "fecha": "2026-09-11T19:00:00",
+      "partido": "Racing de Santander vs Deportivo Alavés",
+      "home": "Racing de Santander",
+      "away": "Deportivo Alavés",
+      "fecha": "2026-09-12T12:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-09-11T10:03:12.099296"
+      "ultima_actualizacion": "2026-09-12T09:39:11.673814"
     }
   ]
 }
