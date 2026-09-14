@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-09-13T10:40:19.231832",
+  "ultima_actualizacion": "2026-09-14T11:01:07.040145",
   "ligas_activas": [
     "LaLiga",
     "Segunda Division"
@@ -8,13 +8,13 @@
   "partidos": [
     {
       "liga": "LaLiga",
-      "partido": "Celta Vigo vs Málaga",
-      "home": "Celta Vigo",
-      "away": "Málaga",
-      "fecha": "2026-09-13T12:00:00",
+      "partido": "Villarreal vs Real Betis",
+      "home": "Villarreal",
+      "away": "Real Betis",
+      "fecha": "2026-09-14T19:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-09-13T10:40:19.231810"
+      "ultima_actualizacion": "2026-09-14T11:01:07.040126"
     }
   ]
 }
