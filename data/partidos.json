@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-09-14T11:01:07.040145",
+  "ultima_actualizacion": "2026-09-15T10:31:33.950993",
   "ligas_activas": [
     "LaLiga",
     "Segunda Division"
@@ -8,13 +8,13 @@
   "partidos": [
     {
       "liga": "LaLiga",
-      "partido": "Villarreal vs Real Betis",
-      "home": "Villarreal",
-      "away": "Real Betis",
-      "fecha": "2026-09-14T19:00:00",
+      "partido": "Rayo Vallecano vs Espanyol",
+      "home": "Rayo Vallecano",
+      "away": "Espanyol",
+      "fecha": "2026-09-15T17:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-09-14T11:01:07.040126"
+      "ultima_actualizacion": "2026-09-15T10:31:33.950971"
     }
   ]
 }
