@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-09-16T10:20:52.262631",
+  "ultima_actualizacion": "2026-09-17T10:30:03.746513",
   "ligas_activas": [
     "LaLiga",
     "Segunda Division"
@@ -8,13 +8,13 @@
   "partidos": [
     {
       "liga": "LaLiga",
-      "partido": "Atlético Madrid vs Osasuna",
-      "home": "Atlético Madrid",
-      "away": "Osasuna",
-      "fecha": "2026-09-16T17:00:00",
+      "partido": "Real Betis vs Getafe",
+      "home": "Real Betis",
+      "away": "Getafe",
+      "fecha": "2026-09-17T17:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-09-16T10:20:52.262613"
+      "ultima_actualizacion": "2026-09-17T10:30:03.746493"
     }
   ]
 }
