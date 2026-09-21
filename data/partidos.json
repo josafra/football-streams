@@ -1,20 +1,9 @@
 {
-  "ultima_actualizacion": "2026-09-20T10:09:28.915297",
+  "ultima_actualizacion": "2026-09-21T11:10:37.436878",
   "ligas_activas": [
     "LaLiga",
     "Segunda Division"
   ],
-  "total_partidos": 1,
-  "partidos": [
-    {
-      "liga": "LaLiga",
-      "partido": "Getafe vs Málaga",
-      "home": "Getafe",
-      "away": "Málaga",
-      "fecha": "2026-09-20T12:00:00",
-      "estado": "NS",
-      "streams": [],
-      "ultima_actualizacion": "2026-09-20T10:09:28.915277"
-    }
-  ]
+  "total_partidos": 0,
+  "partidos": []
 }
