@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-10-09T12:08:30.208257",
+  "ultima_actualizacion": "2026-10-10T11:26:23.379028",
   "ligas_activas": [
     "LaLiga",
     "Segunda Division"
@@ -8,13 +8,13 @@
   "partidos": [
     {
       "liga": "LaLiga",
-      "partido": "Málaga vs Espanyol",
-      "home": "Málaga",
-      "away": "Espanyol",
-      "fecha": "2026-10-09T19:00:00",
+      "partido": "Rayo Vallecano vs Athletic Bilbao",
+      "home": "Rayo Vallecano",
+      "away": "Athletic Bilbao",
+      "fecha": "2026-10-10T12:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-10-09T12:08:30.208238"
+      "ultima_actualizacion": "2026-10-10T11:26:23.379011"
     }
   ]
 }
