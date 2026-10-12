@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-10-11T11:39:35.241960",
+  "ultima_actualizacion": "2026-10-12T13:36:52.256265",
   "ligas_activas": [
     "LaLiga",
     "Segunda Division"
@@ -8,13 +8,13 @@
   "partidos": [
     {
       "liga": "LaLiga",
-      "partido": "Elche vs Celta Vigo",
-      "home": "Elche",
-      "away": "Celta Vigo",
-      "fecha": "2026-10-11T12:00:00",
+      "partido": "Levante vs Sevilla",
+      "home": "Levante",
+      "away": "Sevilla",
+      "fecha": "2026-10-12T19:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-10-11T11:39:35.241940"
+      "ultima_actualizacion": "2026-10-12T13:36:52.256239"
     }
   ]
 }
