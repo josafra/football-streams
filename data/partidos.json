@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-10-12T13:36:52.256265",
+  "ultima_actualizacion": "2026-10-13T12:59:59.893485",
   "ligas_activas": [
     "LaLiga",
     "Segunda Division"
@@ -8,13 +8,13 @@
   "partidos": [
     {
       "liga": "LaLiga",
-      "partido": "Levante vs Sevilla",
-      "home": "Levante",
-      "away": "Sevilla",
-      "fecha": "2026-10-12T19:00:00",
+      "partido": "Deportivo de A Coruña vs Levante",
+      "home": "Deportivo de A Coruña",
+      "away": "Levante",
+      "fecha": "2026-10-16T19:00:00",
       "estado": "NS",
       "streams": [],
-      "ultima_actualizacion": "2026-10-12T13:36:52.256239"
+      "ultima_actualizacion": "2026-10-13T12:59:59.893467"
     }
   ]
 }
