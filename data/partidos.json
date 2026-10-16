@@ -1,20 +1,9 @@
 {
-  "ultima_actualizacion": "2026-10-15T10:24:15.961487",
+  "ultima_actualizacion": "2026-10-16T10:11:22.235679",
   "ligas_activas": [
     "LaLiga",
     "Segunda Division"
   ],
-  "total_partidos": 1,
-  "partidos": [
-    {
-      "liga": "LaLiga",
-      "partido": "Deportivo de A Coruña vs Levante",
-      "home": "Deportivo de A Coruña",
-      "away": "Levante",
-      "fecha": "2026-10-16T19:00:00",
-      "estado": "NS",
-      "streams": [],
-      "ultima_actualizacion": "2026-10-15T10:24:15.961476"
-    }
-  ]
+  "total_partidos": 0,
+  "partidos": []
 }
